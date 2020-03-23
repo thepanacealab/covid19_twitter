@@ -13,6 +13,8 @@ For more information on processing and visualizations please visit: www.panaceal
 
 All tweets ids found in full_dataset.tsv and full_dataset-clean.tsv need to be hydrated using a tool like get_metada.py from the Social Media Toolkit (SMMT) released by our lab or Twarc. 
 
+Note: All the code in the /procesing code
+
 # Mainted by:
 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com) and Ramya Tekumalla
