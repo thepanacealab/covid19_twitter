@@ -13,7 +13,7 @@ For more information on processing and visualizations please visit: www.panaceal
 
 All tweets ids found in full_dataset.tsv and full_dataset-clean.tsv need to be hydrated using a tool like get_metada.py from the Social Media Toolkit (SMMT) released by our lab or Twarc. 
 
-Note: All the code in the /procesing code
+Note: All the code in the /processing_code folder is provided as-is, it was used to generate the provided files from the source Tweet JSON files. Documentation will be gradually added for these scripts. 
 
 # Mainted by:
 
