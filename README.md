@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3723940.svg)](https://doi.org/10.5281/zenodo.3723940)
+
 # covid19_twitter
 Covid-19 Twitter dataset and pre-processing scripts - under active development -released under CC-BY-4.0
 
