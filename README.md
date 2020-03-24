@@ -1,3 +1,6 @@
+## Latest Updates:
+
+3/24/20 - Daily data (under the /dailies/ folder) has been added for 3/22 and 3/23, note that some tweets will bleed into the following day due to different timezones captured.
 
 # Covid-19 Twitter chatter dataset for scientific use
 
