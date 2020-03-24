@@ -20,7 +20,7 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 
 # Mainted by:
 
-[Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com) and Ramya Tekumalla
+[Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 
 
 # Version 1.0 release notes
