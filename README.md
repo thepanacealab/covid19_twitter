@@ -42,22 +42,23 @@ The data collected from the stream captures all languages, but the higher preval
 
 # How to cite this dataset:
 
-Version 1.0
+Version 2.0
 
 ```
-@dataset{banda_juan_m_2020_3723940,
+@dataset{banda_juan_m_2020_3732460,
   author       = {Banda, Juan M. and
-                  Tekumalla, Ramya},
-  title        = {{A Twitter Dataset of 40+ million tweets related to 
+                  Tekumalla, Ramya and
+                  Chowell, Gerardo},
+  title        = {{A Twitter Dataset of 70+ million tweets related to 
                    COVID-19}},
   month        = mar,
   year         = 2020,
   note         = {{This dataset will be updated bi-weekly at least 
                    with additional tweets}},
   publisher    = {Zenodo},
-  version      = {1.0},
-  doi          = {10.5281/zenodo.3723940},
-  url          = {https://doi.org/10.5281/zenodo.3723940}
+  version      = {2.0},
+  doi          = {10.5281/zenodo.3732460},
+  url          = {https://doi.org/10.5281/zenodo.3732460}
 }
 ```
 
