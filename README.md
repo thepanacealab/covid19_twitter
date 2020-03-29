@@ -1,6 +1,8 @@
 ## Latest Updates:
 
-3/28/20 - Daily data (under the /dailies/ folder) has been added for 3/26, 3/27 and 3/28, note that some tweets will bleed into the following day due to different timezones captured   
+3/29/20 - Version 2.0 of the dataset has been released. Can be found in: https://doi.org/10.5281/zenodo.3732460. Note that if you download this version you will not need any of the daily updates as it contains all data until 3/28. 
+
+3/28/20 - Daily data (under the /dailies/ folder) has been added for 3/26, 3/27 and 3/28, note that some tweets will bleed into the following day due to   
 
 3/26/20 - Daily data (under the /dailies/ folder) has been added for 3/24 and 3/25, note that some tweets will bleed into the following day due to different timezones captured.
 
@@ -26,6 +28,10 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 
+# Version 2.0 release note
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3732460.svg)](https://doi.org/10.5281/zenodo.3732460)
+
+We have added a full seven days of tweets in this latest release. Bascially everything in the dailies folders. We will leave those for people doing daily analyses, but if you haven't downloaded anything before, start with this version of the dataset. We are up to 70,569,368 unique tweets and when removing retweets, we have 13,535,912 unique tweets. 
 
 # Version 1.0 release notes
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3723940.svg)](https://doi.org/10.5281/zenodo.3723940)
