@@ -28,7 +28,7 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 
-# Version 2.0 release note
+# Version 2.0 release notes
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3732460.svg)](https://doi.org/10.5281/zenodo.3732460)
 
 We have added a full seven days of tweets in this latest release. Bascially everything in the dailies folders. We will leave those for people doing daily analyses, but if you haven't downloaded anything before, start with this version of the dataset. We are up to 70,569,368 unique tweets and when removing retweets, we have 13,535,912 unique tweets. 
