@@ -66,5 +66,5 @@ Version 2.0
 
 # License 
 
-This dataset is released under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0/)
-[![CC4B](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+This dataset is released under (CC0) License](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
