@@ -31,6 +31,12 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 # Mainted by:
 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
+Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen)
+
+# Version 3.0 release notes
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3723939.svg)](https://doi.org/10.5281/zenodo.3723939)
+
+Thanks to our new collaborators, We have added full month of tweets between January 27th and February 27th to version 2 of the dataset, plus all the dailes until 3/30. This data now has better coverage for the earlier days of the pandemic. 
 
 # Version 2.0 release notes
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3732460.svg)](https://doi.org/10.5281/zenodo.3732460)
@@ -46,24 +52,30 @@ The data collected from the stream captures all languages, but the higher preval
 
 # How to cite this dataset:
 
-Version 2.0
+Version 3.0
 
 ```
-@dataset{banda_juan_m_2020_3732460,
+@dataset{banda_juan_m_2020_3735274,
   author       = {Banda, Juan M. and
                   Tekumalla, Ramya and
+                  Wang, Guanyu and
+                  Yu, Jingyuan and
+                  Liu, Tuo and
+                  Ding, Yuning and
                   Chowell, Gerardo},
-  title        = {{A Twitter Dataset of 70+ million tweets related to 
-                   COVID-19}},
+  title        = {{A Twitter Dataset of 100+ million tweets related 
+                   to COVID-19}},
   month        = mar,
   year         = 2020,
   note         = {{This dataset will be updated bi-weekly at least 
-                   with additional tweets}},
+                   with additional tweets, look at the github repo
+                   for these updates}},
   publisher    = {Zenodo},
-  version      = {2.0},
-  doi          = {10.5281/zenodo.3732460},
-  url          = {https://doi.org/10.5281/zenodo.3732460}
+  version      = {3.0},
+  doi          = {10.5281/zenodo.3735274},
+  url          = {https://doi.org/10.5281/zenodo.3735274}
 }
+
 ```
 
 # License 
