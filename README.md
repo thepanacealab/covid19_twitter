@@ -1,6 +1,8 @@
 ## Latest Updates:
 
-4/01/20 - Daily data (under the /dailies/ folder) has been added for 4/1 and 4/2, note that some tweets will bleed into the following day due to different timezones captured.
+4/05/20 - Weekend dailies have been added under the /dailies/ folder. Data for 4/2, 4/3 and 4/4. 
+
+4/01/20 - Daily data (under the /dailies/ folder) has been added for 3/31 and 4/1, note that some tweets will bleed into the following day due to different timezones captured.
 
 3/31/20 - Daily data (under the /dailies/ folder) has been added for 3/29 and 3/30, note that some tweets will bleed into the following day due to different timezones captured.
 
