@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+4/05/20 - Version 4.0 of the dataset has been release. It can be found in: https://doi.org/10.5281/zenodo.3738018. This incorporates every daily until 4/4 and the previous versions of the dataset + additional data from January 27th to March 27th. 
+
 4/05/20 - Weekend dailies have been added under the /dailies/ folder. Data for 4/2, 4/3 and 4/4. 
 
 4/01/20 - Daily data (under the /dailies/ folder) has been added for 3/31 and 4/1, note that some tweets will bleed into the following day due to different timezones captured.
@@ -35,6 +37,12 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen)
 
+# Version 4.0 release notes
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3738018.svg)](https://doi.org/10.5281/zenodo.3738018)
+
+We have fully integrated our collaborators data, January 27 to March 27th include several million extra tweets. This combines version 3 of the dataset and all the dailies until 4/4.
+
 # Version 3.0 release notes
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3723939.svg)](https://doi.org/10.5281/zenodo.3723939)
 
@@ -54,7 +62,7 @@ The data collected from the stream captures all languages, but the higher preval
 
 # How to cite this dataset:
 
-Version 3.0
+Version 4.0
 
 ```
 @dataset{banda_juan_m_2020_3735274,
@@ -65,7 +73,7 @@ Version 3.0
                   Liu, Tuo and
                   Ding, Yuning and
                   Chowell, Gerardo},
-  title        = {{A Twitter Dataset of 100+ million tweets related 
+  title        = {{A Twitter Dataset of 150+ million tweets related 
                    to COVID-19}},
   month        = mar,
   year         = 2020,
@@ -73,9 +81,9 @@ Version 3.0
                    with additional tweets, look at the github repo
                    for these updates}},
   publisher    = {Zenodo},
-  version      = {3.0},
-  doi          = {10.5281/zenodo.3735274},
-  url          = {https://doi.org/10.5281/zenodo.3735274}
+  version      = {4.0},
+  doi          = {10.5281/zenodo.3738018},
+  url          = {https://doi.org/10.5281/zenodo.3738018}
 }
 
 ```
