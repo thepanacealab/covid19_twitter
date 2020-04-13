@@ -1,10 +1,12 @@
 ## Latest Updates:
 
+4/12/20 - Version 5.0 of the dataset has been released. It can be found in: https://zenodo.org/record/3749360. This incorporates all the dailies until 4/11 and version 4.0 of the dataset. Dailies have been added for 4/9, 4/10, and 4/11 in the dailies folder. 
+
 4/09/20 - Daily data (under the /dailies/ folder) has been added for 4/7 and 4/8, note that some tweets will bleed into the following day due to different timezones captured.
 
 4/07/20 - Daily data (under the /dailies/ folder) has been added for 4/5 and 4/6, note that some tweets will bleed into the following day due to different timezones captured.
 
-4/05/20 - Version 4.0 of the dataset has been release. It can be found in: https://doi.org/10.5281/zenodo.3738018. This incorporates every daily until 4/4 and the previous versions of the dataset + additional data from January 27th to March 27th. 
+4/05/20 - Version 4.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3738018. This incorporates every daily until 4/4 and the previous versions of the dataset + additional data from January 27th to March 27th. 
 
 4/05/20 - Weekend dailies have been added under the /dailies/ folder. Data for 4/2, 4/3 and 4/4. 
 
@@ -41,6 +43,12 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen)
 
+# Version 5.0 release notes
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3749360.svg)](https://doi.org/10.5281/zenodo.3749360)
+
+This combines version 4 of the dataset and all the dailies until 4/11.
+
 # Version 4.0 release notes
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3738018.svg)](https://doi.org/10.5281/zenodo.3738018)
@@ -66,7 +74,7 @@ The data collected from the stream captures all languages, but the higher preval
 
 # How to cite this dataset:
 
-Version 4.0
+Version 5.0
 
 ```
 @dataset{banda_juan_m_2020_3735274,
@@ -77,7 +85,7 @@ Version 4.0
                   Liu, Tuo and
                   Ding, Yuning and
                   Chowell, Gerardo},
-  title        = {{A Twitter Dataset of 150+ million tweets related 
+  title        = {{A Twitter Dataset of 179+ million tweets related 
                    to COVID-19}},
   month        = mar,
   year         = 2020,
@@ -85,7 +93,7 @@ Version 4.0
                    with additional tweets, look at the github repo
                    for these updates}},
   publisher    = {Zenodo},
-  version      = {4.0},
+  version      = {5.0},
   doi          = {10.5281/zenodo.3738018},
   url          = {https://doi.org/10.5281/zenodo.3738018}
 }
