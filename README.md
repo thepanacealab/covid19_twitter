@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+4/14/20 - Daily data (under the /dailies/ folder) has been added for 4/12 and 4/13, note that some tweets will bleed into the following day due to different timezones captured.
+
 4/12/20 - Version 5.0 of the dataset has been released. It can be found in: https://zenodo.org/record/3749360. This incorporates all the dailies until 4/11 and version 4.0 of the dataset. Dailies have been added for 4/9, 4/10, and 4/11 in the dailies folder. 
 
 4/09/20 - Daily data (under the /dailies/ folder) has been added for 4/7 and 4/8, note that some tweets will bleed into the following day due to different timezones captured.
