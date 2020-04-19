@@ -1,30 +1,8 @@
 ## Latest Updates:
 
+4/19/20 - Version 6.0 of the dataset has been released. It can be found in: https://zenodo.org/record/3757272. This incorporates all the dailies until 4/18 and version 5.0 of the dataset. Dailies have been added for 4/16, 4/17, and 4/18 in the dailies folder. We made it to 205 Million tweets in this version of the dataset. We adjusted the name to match our pre-print for the manuscript about the dataset. This will also allow us to not change the name of the dataset with each version.
+
 4/16/20 - Daily data (under the /dailies/ folder) has been added for 4/14 and 4/15, note that some tweets will bleed into the following day due to different timezones captured.
-
-4/14/20 - Daily data (under the /dailies/ folder) has been added for 4/12 and 4/13, note that some tweets will bleed into the following day due to different timezones captured.
-
-4/12/20 - Version 5.0 of the dataset has been released. It can be found in: https://zenodo.org/record/3749360. This incorporates all the dailies until 4/11 and version 4.0 of the dataset. Dailies have been added for 4/9, 4/10, and 4/11 in the dailies folder. 
-
-4/09/20 - Daily data (under the /dailies/ folder) has been added for 4/7 and 4/8, note that some tweets will bleed into the following day due to different timezones captured.
-
-4/07/20 - Daily data (under the /dailies/ folder) has been added for 4/5 and 4/6, note that some tweets will bleed into the following day due to different timezones captured.
-
-4/05/20 - Version 4.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3738018. This incorporates every daily until 4/4 and the previous versions of the dataset + additional data from January 27th to March 27th. 
-
-4/05/20 - Weekend dailies have been added under the /dailies/ folder. Data for 4/2, 4/3 and 4/4. 
-
-4/01/20 - Daily data (under the /dailies/ folder) has been added for 3/31 and 4/1, note that some tweets will bleed into the following day due to different timezones captured.
-
-3/31/20 - Daily data (under the /dailies/ folder) has been added for 3/29 and 3/30, note that some tweets will bleed into the following day due to different timezones captured.
-
-3/29/20 - Version 2.0 of the dataset has been released. Can be found in: https://doi.org/10.5281/zenodo.3732460. Note that if you download this version you will not need any of the daily updates as it contains all data until 3/28. 
-
-3/28/20 - Daily data (under the /dailies/ folder) has been added for 3/26, 3/27 and 3/28, note that some tweets will bleed into the following day due to   
-
-3/26/20 - Daily data (under the /dailies/ folder) has been added for 3/24 and 3/25, note that some tweets will bleed into the following day due to different timezones captured.
-
-3/24/20 - Daily data (under the /dailies/ folder) has been added for 3/22 and 3/23, note that some tweets will bleed into the following day due to different timezones captured.
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -46,6 +24,13 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen)
+
+# Version 6.0 release notes
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3757272.svg)](https://doi.org/10.5281/zenodo.3757272)
+
+We made it to 205 million tweets!. This combines version 5 of the dataset and all the dailies until 4/18.
+We updated the name to math the pre-print for the dataset manuscript. 
 
 # Version 5.0 release notes
 
@@ -78,10 +63,10 @@ The data collected from the stream captures all languages, but the higher preval
 
 # How to cite this dataset:
 
-Version 5.0
+Version 6.0
 
 ```
-@dataset{banda_juan_m_2020_3735274,
+@dataset{banda_juan_m_2020_3757272,
   author       = {Banda, Juan M. and
                   Tekumalla, Ramya and
                   Wang, Guanyu and
@@ -89,17 +74,21 @@ Version 5.0
                   Liu, Tuo and
                   Ding, Yuning and
                   Chowell, Gerardo},
-  title        = {{A Twitter Dataset of 179+ million tweets related 
-                   to COVID-19}},
-  month        = mar,
+  title        = {{A large-scale COVID-19 Twitter chatter dataset for 
+                   open scientific research - an international
+                   collaboration}},
+  month        = apr,
   year         = 2020,
   note         = {{This dataset will be updated bi-weekly at least 
                    with additional tweets, look at the github repo
-                   for these updates}},
+                   for these updates. Release: We have standardized
+                   the name of the resource to match our pre-print
+                   manuscript and to not have to update it every
+                   week.}},
   publisher    = {Zenodo},
-  version      = {5.0},
-  doi          = {10.5281/zenodo.3738018},
-  url          = {https://doi.org/10.5281/zenodo.3738018}
+  version      = {6.0},
+  doi          = {10.5281/zenodo.3723939},
+  url          = {https://doi.org/10.5281/zenodo.3723939}
 }
 
 ```
