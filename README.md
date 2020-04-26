@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+4/26/20 - Version 7.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3766929. This incorporates all the dailies until 4/25 and version 6.0 of the dataset. Dailies have been added for 4/23, 4/24, and 4/25 in the dailies folder. We made it to 230 Million tweets in this version of the dataset.
+
 4/23/20 - Daily data (under the /dailies/ folder) has been added for 4/21 and 4/22, note that some tweets will bleed into the following day due to different timezones captured.
 
 4/21/20 - Daily data (under the /dailies/ folder) has been added for 4/19 and 4/20, note that some tweets will bleed into the following day due to different timezones captured.
@@ -29,12 +31,18 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen)
 
+# Version 7.0 release notes
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3766929.svg)](https://doi.org/10.5281/zenodo.3766929)
+
+We made it to 230 million tweets!. This combines version 6 of the dataset and all the dailies until 4/25.
+
 # Version 6.0 release notes
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3757272.svg)](https://doi.org/10.5281/zenodo.3757272)
 
 We made it to 205 million tweets!. This combines version 5 of the dataset and all the dailies until 4/18.
-We updated the name to math the pre-print for the dataset manuscript. 
+We updated the name to match the pre-print for the dataset manuscript. 
 
 # Version 5.0 release notes
 
@@ -67,7 +75,7 @@ The data collected from the stream captures all languages, but the higher preval
 
 # How to cite this dataset:
 
-Version 6.0
+Version 7.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -90,7 +98,7 @@ Version 6.0
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {6.0},
+  version      = {7.0},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
