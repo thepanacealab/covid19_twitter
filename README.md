@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+5/03/20 - Version 8.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3766929. This incorporates all the dailies until 5/2 and version 7.0 of the dataset. Dailies have been added for 5/2, 5/1, and 4/30 in the dailies folder. We made it to 255 Million tweets in this version of the dataset.
+
 4/30/20 - Daily data (under the /dailies/ folder) has been added for 4/28 and 4/29, note that some tweets will bleed into the following day due to different timezones captured.
 
 4/28/20 - Daily data (under the /dailies/ folder) has been added for 4/26 and 4/27, note that some tweets will bleed into the following day due to different timezones captured.
@@ -34,6 +36,12 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen)
+
+# Version 8.0 release notes
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3783737.svg)](https://doi.org/10.5281/zenodo.3783737)
+
+We made it to 255 million tweets!. This combines version 7 of the dataset and all the dailies until 5/02.
 
 # Version 7.0 release notes
 
@@ -79,7 +87,7 @@ The data collected from the stream captures all languages, but the higher preval
 
 # How to cite this dataset:
 
-Version 7.0
+Version 8.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -102,7 +110,7 @@ Version 7.0
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {7.0},
+  version      = {8.0},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
