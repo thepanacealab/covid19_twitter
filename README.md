@@ -1,24 +1,10 @@
 ## Latest Updates:
 
+5/10/20 - Version 9.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3723939. This incorporates all the dailies until 5/9 and version 8.0 of the dataset. Dailies have been added for 5/7, 5/8, and 5/9 in the dailies folder. We made it to 283 Million tweets in this version of the dataset.
+
 5/06/20 - Daily data (under the /dailies/ folder) has been added for 5/5 and 5/6, note that some tweets will bleed into the following day due to different timezones captured.
 
 5/05/20 - Daily data (under the /dailies/ folder) has been added for 5/3 and 5/4, note that some tweets will bleed into the following day due to different timezones captured.
-
-5/03/20 - Version 8.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3766929. This incorporates all the dailies until 5/2 and version 7.0 of the dataset. Dailies have been added for 5/2, 5/1, and 4/30 in the dailies folder. We made it to 255 Million tweets in this version of the dataset.
-
-4/30/20 - Daily data (under the /dailies/ folder) has been added for 4/28 and 4/29, note that some tweets will bleed into the following day due to different timezones captured.
-
-4/28/20 - Daily data (under the /dailies/ folder) has been added for 4/26 and 4/27, note that some tweets will bleed into the following day due to different timezones captured.
-
-4/26/20 - Version 7.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3766929. This incorporates all the dailies until 4/25 and version 6.0 of the dataset. Dailies have been added for 4/23, 4/24, and 4/25 in the dailies folder. We made it to 230 Million tweets in this version of the dataset.
-
-4/23/20 - Daily data (under the /dailies/ folder) has been added for 4/21 and 4/22, note that some tweets will bleed into the following day due to different timezones captured.
-
-4/21/20 - Daily data (under the /dailies/ folder) has been added for 4/19 and 4/20, note that some tweets will bleed into the following day due to different timezones captured.
-
-4/19/20 - Version 6.0 of the dataset has been released. It can be found in: https://zenodo.org/record/3757272. This incorporates all the dailies until 4/18 and version 5.0 of the dataset. Dailies have been added for 4/16, 4/17, and 4/18 in the dailies folder. We made it to 205 Million tweets in this version of the dataset. We adjusted the name to match our pre-print for the manuscript about the dataset. This will also allow us to not change the name of the dataset with each version.
-
-4/16/20 - Daily data (under the /dailies/ folder) has been added for 4/14 and 4/15, note that some tweets will bleed into the following day due to different timezones captured.
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -40,6 +26,12 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen)
+
+# Version 9.0 release notes
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3766929.svg)](https://doi.org/10.5281/zenodo.3766929)
+
+We made it to 283 million tweets!. This combines version 8 of the dataset and all the dailies until 5/09.
 
 # Version 8.0 release notes
 
@@ -91,7 +83,7 @@ The data collected from the stream captures all languages, but the higher preval
 
 # How to cite this dataset:
 
-Version 8.0
+Version 9.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -105,7 +97,7 @@ Version 8.0
   title        = {{A large-scale COVID-19 Twitter chatter dataset for 
                    open scientific research - an international
                    collaboration}},
-  month        = apr,
+  month        = may,
   year         = 2020,
   note         = {{This dataset will be updated bi-weekly at least 
                    with additional tweets, look at the github repo
@@ -114,7 +106,7 @@ Version 8.0
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {8.0},
+  version      = {9.0},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
