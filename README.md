@@ -1,6 +1,6 @@
 ## Latest Updates:
 
-5/17/20 - Version 10.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3723939. This incorporates all the dailies until 5/16 and version 9.0 of the dataset PLUS ~1.5 million tweets contributed by: Katya Artemova (NRU HSE) and Elena Tutubaline (KFU). Dailies have been added for 5/14, 5/15, and 5/16 in the dailies folder. We made it to 309 Million tweets in this version of the dataset.
+5/17/20 - Version 10.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3723939. This incorporates all the dailies until 5/16 and version 9.0 of the dataset PLUS ~1.5 million tweets contributed by: Katya Artemova (NRU HSE) and Elena Tutubalinа (KFU). Dailies have been added for 5/14, 5/15, and 5/16 in the dailies folder. We made it to 309 Million tweets in this version of the dataset.
 
 5/14/20 - Daily data (under the /dailies/ folder) has been added for 5/12 and 5/13, note that some tweets will bleed into the following day due to different timezones captured.
 
@@ -33,7 +33,7 @@ Additional data provided by: Guanyu Wang (Missouri school of journalism, Univers
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3831406.svg)](https://doi.org/10.5281/zenodo.3831406)
 
-Version 10 This incorporates all the dailies until 5/16 and version 9.0 of the dataset PLUS ~1.5 million tweets contributed by: Katya Artemova (NRU HSE) and Elena Tutubaline (KFU). We made it to 309 Million tweets in this version of the dataset.
+Version 10 This incorporates all the dailies until 5/16 and version 9.0 of the dataset PLUS ~1.5 million tweets contributed by: Katya Artemova (NRU HSE) and Elena Tutubalina (KFU). We made it to 309 Million tweets in this version of the dataset.
 
 # Version 9.0 release notes
 
@@ -102,7 +102,7 @@ Version 10.0
                   Liu, Tuo and
                   Ding, Yuning and
                   Artemova, Katya and
-                  Tutubaline, Elena and
+                  Tutubalinа, Elena and
                   Chowell, Gerardo},
   title        = {{A large-scale COVID-19 Twitter chatter dataset for 
                    open scientific research - an international
