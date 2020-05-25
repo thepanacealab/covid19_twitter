@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+5/24/20 - Version 11.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3723939. This incorporates all the dailies until 5/23 and version 10.0 of the dataset. Dailies have been added for 5/23, 5/22, and 5/21 in the dailies folder. We made it to 336 Million tweets in this version of the dataset.
+
 5/21/20 - Daily data (under the /dailies/ folder) has been added for 5/20 and 5/19, note that some tweets will bleed into the following day due to different timezones captured.
 
 5/19/20 - Daily data (under the /dailies/ folder) has been added for 5/18 and 5/17, note that some tweets will bleed into the following day due to different timezones captured.
@@ -32,6 +34,12 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen)
+
+# Version 11.0 release notes
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3842180.svg)](https://doi.org/10.5281/zenodo.3842180)
+
+Version 11 This incorporates all the dailies until 5/23 and version 10.0 of the dataset. We made it to 336 Million tweets in this version of the dataset.
 
 # Version 10.0 release notes
 
@@ -95,7 +103,7 @@ The data collected from the stream captures all languages, but the higher preval
 
 # How to cite this dataset:
 
-Version 10.0
+Version 11.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -120,7 +128,7 @@ Version 10.0
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {10.0},
+  version      = {11.0},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
