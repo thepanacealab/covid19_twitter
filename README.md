@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+5/28/20 - Daily data (under the /dailies/ folder) has been added for 5/27 and 5/26, note that some tweets will bleed into the following day due to different timezones captured.
+
 5/26/20 - Daily data (under the /dailies/ folder) has been added for 5/25 and 5/24, note that some tweets will bleed into the following day due to different timezones captured.
 
 5/24/20 - Version 11.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3723939. This incorporates all the dailies until 5/23 and version 10.0 of the dataset. Dailies have been added for 5/23, 5/22, and 5/21 in the dailies folder. We made it to 336 Million tweets in this version of the dataset.
