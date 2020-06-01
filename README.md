@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+5/24/20 - Version 12.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3723939. This incorporates all the dailies until 5/30 and version 11.0 of the dataset. Dailies have been added for 5/30, 5/29, and 5/28 in the dailies folder. We made it to 361 Million tweets in this version of the dataset. NEW in Version 12: Besides our regular update, we have now included daily sorted counts of hashtags, mentions, and emojis (character and text) found on English tweets. These are zipped under: hashtags.zip, mentions.zip, and emojis.zip. There is one file per day properly labeled. 
+
 5/28/20 - Daily data (under the /dailies/ folder) has been added for 5/27 and 5/26, note that some tweets will bleed into the following day due to different timezones captured.
 
 5/26/20 - Daily data (under the /dailies/ folder) has been added for 5/25 and 5/24, note that some tweets will bleed into the following day due to different timezones captured.
@@ -9,14 +11,6 @@
 5/21/20 - Daily data (under the /dailies/ folder) has been added for 5/20 and 5/19, note that some tweets will bleed into the following day due to different timezones captured.
 
 5/19/20 - Daily data (under the /dailies/ folder) has been added for 5/18 and 5/17, note that some tweets will bleed into the following day due to different timezones captured.
-
-5/17/20 - Version 10.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3723939. This incorporates all the dailies until 5/16 and version 9.0 of the dataset PLUS ~1.5 million tweets contributed by: Katya Artemova (NRU HSE) and Elena Tutubalinа (KFU). Dailies have been added for 5/14, 5/15, and 5/16 in the dailies folder. We made it to 309 Million tweets in this version of the dataset.
-
-5/14/20 - Daily data (under the /dailies/ folder) has been added for 5/12 and 5/13, note that some tweets will bleed into the following day due to different timezones captured.
-
-5/12/20 - Daily data (under the /dailies/ folder) has been added for 5/10 and 5/11, note that some tweets will bleed into the following day due to different timezones captured.
-
-5/10/20 - Version 9.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3723939. This incorporates all the dailies until 5/9 and version 8.0 of the dataset. Dailies have been added for 5/7, 5/8, and 5/9 in the dailies folder. We made it to 283 Million tweets in this version of the dataset.
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -37,7 +31,13 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 # Mainted by:
 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
-Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen)
+Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
+
+# Version 12.0 release notes
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3870894.svg)](https://doi.org/10.5281/zenodo.3870894)
+
+Version 11 This incorporates all the dailies until 5/30 and version 11.0 of the dataset. We made it to 361 Million tweets in this version of the dataset. NEW in Version 12: Besides our regular update, we have now included daily sorted counts of hashtags, mentions, and emojis (character and text) found on English tweets. These are zipped under: hashtags.zip, mentions.zip, and emojis.zip. There is one file per day properly labeled. 
 
 # Version 11.0 release notes
 
@@ -107,7 +107,7 @@ The data collected from the stream captures all languages, but the higher preval
 
 # How to cite this dataset:
 
-Version 11.0
+Version 12.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -132,7 +132,7 @@ Version 11.0
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {11.0},
+  version      = {12.0},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
