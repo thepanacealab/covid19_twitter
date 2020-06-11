@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+6/11/20 - Daily data (under the /dailies/ folder) has been added for 6/10 and 6/9, note that some tweets will bleed into the following day due to different timezones captured.
+
 6/9/20 - Daily data (under the /dailies/ folder) has been added for 6/8 and 6/7, note that some tweets will bleed into the following day due to different timezones captured.
 
 6/7/20 - Version 13.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3723939. This incorporates all the dailies until 6/6 and version 12.0 of the dataset. Dailies have been added for 6/6, 6/5, and 6/4 in the dailies folder. We made it to 383 Million tweets in this version of the dataset. NEW in Version 13: Besides our regular update, we have now included daily sorted counts of hashtags, mentions, and emojis (character and text) found on English tweets. These are zipped under: hashtags.zip, mentions.zip, and emojis.zip. There is one file per day properly labeled.
