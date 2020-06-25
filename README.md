@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+6/25/20 Daily data (under the /dailies/ folder) has been added for 6/24 and 6/23, note that some tweets will bleed into the following day due to different timezones captured.
+
 6/23/20 Daily data (under the /dailies/ folder) has been added for 6/22 and 6/21, note that some tweets will bleed into the following day due to different timezones captured.
 
 6/21/20 - Version 15.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3723939. This incorporates all the dailies until 6/20 and version 14.0 of the dataset. Dailies have been added for 6/20, 6/19, and 6/18 in the dailies folder. We made it to 424 Million tweets in this version of the dataset. NEW in Version 15: Besides our regular update, we now have included the tweet identifiers and their respective language for the clean version of the dataset. This is found on the clean_languages.tar.gz file, each file is identified by the two-character language code as the file suffix.
