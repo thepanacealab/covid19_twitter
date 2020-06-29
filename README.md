@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+6/28/20 - Version 16 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3723939. This incorporates all the dailies until 6/27 and version 15.0 of the dataset. Dailies have been added for 6/27, 6/26, and 6/25 in the dailies folder. We made it to 446 Million tweets in this version of the dataset. NEW in Version 16: Besides our regular update, we now have included the tweet identifiers and their respective tweet location place country code for the clean version of the dataset. This is found on the clean_place_country.tar.gz file, each file is identified by the two-character ISO country code as the file suffix.
+
 6/25/20 Daily data (under the /dailies/ folder) has been added for 6/24 and 6/23, note that some tweets will bleed into the following day due to different timezones captured.
 
 6/23/20 Daily data (under the /dailies/ folder) has been added for 6/22 and 6/21, note that some tweets will bleed into the following day due to different timezones captured.
@@ -48,6 +50,14 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
+
+
+# Version 16.0 release notes
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3911930.svg)](https://doi.org/10.5281/zenodo.3911930)
+
+NEW in Version 16: NEW in Version 16: Besides our regular update, we now have included the tweet identifiers and their respective tweet location place country code for the clean version of the dataset. This is found on the clean_place_country.tar.gz file, each file is identified by the two-character ISO country code as the file suffix.  Version 14.0 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3723939. This incorporates all the dailies until 6/20 and version 14.0 of the dataset. Dailies have been added for 6/27, 6/26, and 6/25 in the dailies folder. We made it to 446 Million tweets in this version of the dataset.
+
 
 # Version 15.0 release notes
 
@@ -166,7 +176,7 @@ Version 12.0
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {12.0},
+  version      = {16.0},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
