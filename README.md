@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+7/07/20 Daily data (under the /dailies/ folder) has been added for 7/6 and 7/5, note that some tweets will bleed into the following day due to different timezones captured.
+
 7/05/20 - Version 17 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3723939. This incorporates all the dailies until 7/4 and version 16.0 of the dataset. Dailies have been added for 7/4, 7/3, and 7/2 in the dailies folder. We made it to 468 Million tweets in this version of the dataset. NEW in Version 17: Besides our regular update, we now have included the tweet identifiers and their respective tweet location place country code for the clean version of the dataset. This is found on the clean_place_country.tar.gz file, each file is identified by the two-character ISO country code as the file suffix.
 
 7/02/20 Daily data (under the /dailies/ folder) has been added for 7/01 and 6/29, note that some tweets will bleed into the following day due to different timezones captured.
