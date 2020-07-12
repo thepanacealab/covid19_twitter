@@ -63,11 +63,17 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
+# Version 18.0 release notes
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3941294.svg)](https://doi.org/10.5281/zenodo.3941294)
+
+NEW in Version 18: Besides our regular update, we now have included the tweet identifiers and their respective tweet location place country code for the clean version of the dataset. This is found on the clean_place_country.tar.gz file, each file is identified by the two-character ISO country code as the file suffix.
+
 # Version 17.0 release notes
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3930903.svg)](https://doi.org/10.5281/zenodo.3930903)
 
-NEW in Version 16: NEW in Version 17: Besides our regular update, we now have included the tweet identifiers and their respective tweet location place country code for the clean version of the dataset. This is found on the clean_place_country.tar.gz file, each file is identified by the two-character ISO country code as the file suffix.
+NEW in Version 17: Besides our regular update, we now have included the tweet identifiers and their respective tweet location place country code for the clean version of the dataset. This is found on the clean_place_country.tar.gz file, each file is identified by the two-character ISO country code as the file suffix.
 
 
 # Version 16.0 release notes
