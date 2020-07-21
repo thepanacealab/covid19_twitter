@@ -1,6 +1,8 @@
 ## Latest Updates:
 
-7/16/20 - Version 19 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3723939. This incorporates all the dailies until 7/18 and version 18.0 of the dataset. Dailies have been added for 7/18, 7/17, and 7/16 in the dailies folder. We made it to 513 Million tweets in this version of the dataset. NEW in Version 19: Besides our regular update, we now have included the tweet identifiers and their respective tweet location place country code for the clean version of the dataset. This is found on the clean_place_country.tar.gz file, each file is identified by the two-character ISO country code as the file suffix.
+7/21/20 Daily data (under the /dailies/ folder) has been added for 7/20 and 7/19, note that some tweets will bleed into the following day due to different timezones captured.
+
+7/19/20 - Version 19 of the dataset has been released. It can be found in: https://doi.org/10.5281/zenodo.3723939. This incorporates all the dailies until 7/18 and version 18.0 of the dataset. Dailies have been added for 7/18, 7/17, and 7/16 in the dailies folder. We made it to 513 Million tweets in this version of the dataset. NEW in Version 19: Besides our regular update, we now have included the tweet identifiers and their respective tweet location place country code for the clean version of the dataset. This is found on the clean_place_country.tar.gz file, each file is identified by the two-character ISO country code as the file suffix.
 
 7/16/20 Daily data (under the /dailies/ folder) has been added for 7/15 and 7/14, note that some tweets will bleed into the following day due to different timezones captured.
 
@@ -49,7 +51,7 @@ NEW in Version 19: Besides our regular update, we now have included the tweet id
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3941294.svg)](https://doi.org/10.5281/zenodo.3941294)
 
-NEW in Version 18: Besides our regular update, we now have included the tweet identifiers and their respective tweet location place country code for the clean version of the dataset. This is found on the clean_place_country.tar.gz file, each file is identified by the two-character ISO country code as the file suffix.
+NEW in Version 18: Besides our regular update, we now have included the tweet identifiers and their gesgective tweet location place country code for the clean version of the dataset. This is found on the clean_place_country.tar.gz file, each file is identified by the two-character ISO country code as the file suffix.
 
 # Version 17.0 release notes
 
