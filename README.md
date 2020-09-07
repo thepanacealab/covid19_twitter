@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+9/6/20 Version 26 of the dataset, we have refactored the full_dataset.tsv and full_dataset_clean.tsv files (since version 20) to include two additional columns: language and place country code (when available). This change now includes language and country code for ALL the tweets in the dataset, not only clean tweets. With this change we have removed the clean_place_country.tar.gz and clean_languages.tar.gz files. With our refactoring of the dataset generating code we also found a small bug that made some of the retweets not be counted properly, hence the extra increase on tweets available. Dailies have been added for 9/5, 9/4, and 9/3.
+
 9/3/20 Daily data (under the /dailies/ folder) has been added for 9/2 and 9/1, note that some tweets will bleed into the following day due to different timezones captured.
 
 9/1/20 Daily data (under the /dailies/ folder) has been added for 8/31 and 8/30, note that some tweets will bleed into the following day due to different timezones captured.
@@ -61,6 +63,12 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
+# Version 26.0 release notes
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4017050.svg)](https://doi.org/10.5281/zenodo.4017050)
+
+Version 26 of the dataset, we have refactored the full_dataset.tsv and full_dataset_clean.tsv files (since version 20) to include two additional columns: language and place country code (when available). This change now includes language and country code for ALL the tweets in the dataset, not only clean tweets. With this change we have removed the clean_place_country.tar.gz and clean_languages.tar.gz files. With our refactoring of the dataset generating code we also found a small bug that made some of the retweets not be counted properly, hence the extra increase on tweets available.
+
 # Version 25.0 release notes
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4008668.svg)](https://doi.org/10.5281/zenodo.4008668)
@@ -101,7 +109,7 @@ Celebrating version 20 of the dataset, we have refactored the full_dataset.tsv a
 
 # How to cite this dataset:
 
-Version 25.0
+Version 26.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -126,7 +134,7 @@ Version 25.0
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {25.0},
+  version      = {26.0},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
