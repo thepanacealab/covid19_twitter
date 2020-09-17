@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+9/17/20 Daily data (under the /dailies/ folder) has been added for 9/16 and 9/15, note that some tweets will bleed into the following day due to different timezones captured.
+
 9/15/20 Daily data (under the /dailies/ folder) has been added for 9/14 and 9/13, note that some tweets will bleed into the following day due to different timezones captured.
 
 9/13/20 Version 27 of the dataset, we have refactored the full_dataset.tsv and full_dataset_clean.tsv files (since version 20) to include two additional columns: language and place country code (when available). This change now includes language and country code for ALL the tweets in the dataset, not only clean tweets. With this change we have removed the clean_place_country.tar.gz and clean_languages.tar.gz files. With our refactoring of the dataset generating code we also found a small bug that made some of the retweets not be counted properly, hence the extra increase on tweets available. Dailies have been added for 9/12, 9/11, and 9/10.
