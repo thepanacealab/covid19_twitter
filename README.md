@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+10/5/20 Version 30 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 10/3, 10/2, and 10/1.
+
 10/01/20 Daily data (under the /dailies/ folder) has been added for 9/30 and 9/29, note that some tweets will bleed into the following day due to different timezones captured.
 
 9/29/20 Daily data (under the /dailies/ folder) has been added for 9/28 and 9/27, note that some tweets will bleed into the following day due to different timezones captured.
@@ -44,6 +46,12 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
+# Version 30.0 release notes
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4065674.svg)](https://doi.org/10.5281/zenodo.4065674) 
+
+Version 30 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 10/3, 10/2, and 10/1.
+
 # Version 29.0 release notes
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4054267.svg)](https://doi.org/10.5281/zenodo.4054267)
@@ -71,7 +79,7 @@ Version 26 of the dataset, we have refactored the full_dataset.tsv and full_data
 
 # How to cite this dataset:
 
-Version 29.0
+Version 30.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
