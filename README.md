@@ -1,52 +1,12 @@
 ## Latest Updates:
 
+11/01/20 Version 34 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 10/31, 10/30, and 10/29.
+
 10/29/20 Daily data (under the /dailies/ folder) has been added for 10/28 and 10/27, note that some tweets will bleed into the following day due to different timezones captured.
 
 10/27/20 Daily data (under the /dailies/ folder) has been added for 10/26 and 10/25, note that some tweets will bleed into the following day due to different timezones captured.
 
 10/25/20 Version 33 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 10/24, 10/23, and 10/22.
-
-10/22/20 Daily data (under the /dailies/ folder) has been added for 10/21 and 10/20, note that some tweets will bleed into the following day due to different timezones captured
-.
-
-10/20/20 Daily data (under the /dailies/ folder) has been added for 10/19 and 10/18, note that some tweets will bleed into the following day due to different timezones captured.
-
-10/18/20 Version 32 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 10/17, 10/16, and 10/15.
-
-10/15/20 Daily data (under the /dailies/ folder) has been added for 10/14 and 10/13, note that some tweets will bleed into the following day due to different timezones captured.
-
-10/13/20 Daily data (under the /dailies/ folder) has been added for 10/12 and 10/11, note that some tweets will bleed into the following day due to different timezones captured.
-
-10/11/20 Version 31 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 10/10, 10/9, and 10/8.
-
-10/8/20 Daily data (under the /dailies/ folder) has been added for 10/7 and 10/6, note that some tweets will bleed into the following day due to different timezones captured.
-
-10/6/20 Daily data (under the /dailies/ folder) has been added for 10/5 and 10/4, note that some tweets will bleed into the following day due to different timezones captured.
-
-10/5/20 Version 30 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 10/3, 10/2, and 10/1.
-
-10/01/20 Daily data (under the /dailies/ folder) has been added for 9/30 and 9/29, note that some tweets will bleed into the following day due to different timezones captured.
-
-9/29/20 Daily data (under the /dailies/ folder) has been added for 9/28 and 9/27, note that some tweets will bleed into the following day due to different timezones captured.
-
-9/27/20 Version 29 of the dataset, we have refactored the full_dataset.tsv and full_dataset_clean.tsv files (since version 20) to include two additional columns: language and place country code (when available). This change now includes language and country code for ALL the tweets in the dataset, not only clean tweets. With this change we have removed the clean_place_country.tar.gz and clean_languages.tar.gz files. With our refactoring of the dataset generating code we also found a small bug that made some of the retweets not be counted properly, hence the extra increase on tweets available. Dailies have been added for 9/26, 9/25, and 9/24.
-
-9/24/20 Daily data (under the /dailies/ folder) has been added for 9/23 and 9/22, note that some tweets will bleed into the following day due to different timezones captured.
-
-9/22/20 Daily data (under the /dailies/ folder) has been added for 9/21 and 9/20, note that some tweets will bleed into the following day due to different timezones captured.
-
-9/20/20 Version 28 of the dataset, we have refactored the full_dataset.tsv and full_dataset_clean.tsv files (since version 20) to include two additional columns: language and place country code (when available). This change now includes language and country code for ALL the tweets in the dataset, not only clean tweets. With this change we have removed the clean_place_country.tar.gz and clean_languages.tar.gz files. With our refactoring of the dataset generating code we also found a small bug that made some of the retweets not be counted properly, hence the extra increase on tweets available. Dailies have been added for 9/19, 9/18, and 9/17.
-
-9/17/20 Daily data (under the /dailies/ folder) has been added for 9/16 and 9/15, note that some tweets will bleed into the following day due to different timezones captured.
-
-9/15/20 Daily data (under the /dailies/ folder) has been added for 9/14 and 9/13, note that some tweets will bleed into the following day due to different timezones captured.
-
-9/13/20 Version 27 of the dataset, we have refactored the full_dataset.tsv and full_dataset_clean.tsv files (since version 20) to include two additional columns: language and place country code (when available). This change now includes language and country code for ALL the tweets in the dataset, not only clean tweets. With this change we have removed the clean_place_country.tar.gz and clean_languages.tar.gz files. With our refactoring of the dataset generating code we also found a small bug that made some of the retweets not be counted properly, hence the extra increase on tweets available. Dailies have been added for 9/12, 9/11, and 9/10.
-
-9/10/20 Daily data (under the /dailies/ folder) has been added for 9/9 and 9/8, note that some tweets will bleed into the following day due to different timezones captured.
-
-9/8/20 Daily data (under the /dailies/ folder) has been added for 9/7 and 9/6, note that some tweets will bleed into the following day due to different timezones captured.
-
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -69,52 +29,16 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 32.0 release notes
+# Version 34.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4104587.svg)](https://doi.org/10.5281/zenodo.4104587)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4192295.svg)](https://doi.org/10.5281/zenodo.4192295)
 
-Version 32 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 10/17, 10/16 and 10/15
-
-# Version 31.0 release notes
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4079387.svg)](https://doi.org/10.5281/zenodo.4079387)
-
-Version 31 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 10/10, 10/9, and 10/8.
-
-# Version 30.0 release notes
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4065674.svg)](https://doi.org/10.5281/zenodo.4065674) 
-
-Version 30 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 10/3, 10/2, and 10/1.
-
-# Version 29.0 release notes
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4054267.svg)](https://doi.org/10.5281/zenodo.4054267)
-
-Version 29 of the dataset, we have refactored the full_dataset.tsv and full_dataset_clean.tsv files (since version 20) to include two additional columns: language and place country code (when available). This change now includes language and country code for ALL the tweets in the dataset, not only clean tweets. With this change we have removed the clean_place_country.tar.gz and clean_languages.tar.gz files. With our refactoring of the dataset generating code we also found a small bug that made some of the retweets not be counted properly, hence the extra increase on tweets available.
-
-# Version 28.0 release notes
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4039988.svg)](https://doi.org/10.5281/zenodo.4039988)
-
-Version 28 of the dataset, we have refactored the full_dataset.tsv and full_dataset_clean.tsv files (since version 20) to include two additional columns: language and place country code (when available). This change now includes language and country code for ALL the tweets in the dataset, not only clean tweets. With this change we have removed the clean_place_country.tar.gz and clean_languages.tar.gz files. With our refactoring of the dataset generating code we also found a small bug that made some of the retweets not be counted properly, hence the extra increase on tweets available.
-
-# Version 27.0 release notes
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4027658.svg)](https://doi.org/10.5281/zenodo.4027658)
-
-Version 27 of the dataset, we have refactored the full_dataset.tsv and full_dataset_clean.tsv files (since version 20) to include two additional columns: language and place country code (when available). This change now includes language and country code for ALL the tweets in the dataset, not only clean tweets. With this change we have removed the clean_place_country.tar.gz and clean_languages.tar.gz files. With our refactoring of the dataset generating code we also found a small bug that made some of the retweets not be counted properly, hence the extra increase on tweets available.
-
-# Version 26.0 release notes
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4017050.svg)](https://doi.org/10.5281/zenodo.4017050)
-
-Version 26 of the dataset, we have refactored the full_dataset.tsv and full_dataset_clean.tsv files (since version 20) to include two additional columns: language and place country code (when available). This change now includes language and country code for ALL the tweets in the dataset, not only clean tweets. With this change we have removed the clean_place_country.tar.gz and clean_languages.tar.gz files. With our refactoring of the dataset generating code we also found a small bug that made some of the retweets not be counted properly, hence the extra increase on tweets available.
+Version 34 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 10/31, 10/30 and 10/29
 
 
 # How to cite this dataset:
 
-Version 30.0
+Version 34.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -139,7 +63,7 @@ Version 30.0
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {29.0},
+  version      = {34.0},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
