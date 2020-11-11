@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+11/10/20 Upon request, we have added the visualization R code for the plots found in http://www.panacealab.org/covid19/, a bit messy but gets the job done.  
+
 11/10/20 Daily data (under the /dailies/ folder) has been added for 11/09 and 11/08, note that some tweets will bleed into the following day due to different timezones captured.
 
 11/08/20 Version 35 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 11/07, 11/06, and 11/05.
