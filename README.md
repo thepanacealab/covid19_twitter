@@ -1,6 +1,8 @@
 ## Latest Updates:
 
-11/10/20 Upon request, we have added the visualization R code for the plots found in http://www.panacealab.org/covid19/, a bit messy but gets the job done.  
+11/12/20 Daily data (under the /dailies/ folder) has been added for 11/11 and 11/10, note that some tweets will bleed into the following day due to different timezones captured.
+
+11/10/20 Upon request, we have added the visualization R code for the plots found in http://www.panacealab.org/covid19/, a bit messy but gets the job donegg 
 
 11/10/20 Daily data (under the /dailies/ folder) has been added for 11/09 and 11/08, note that some tweets will bleed into the following day due to different timezones captured.
 
