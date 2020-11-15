@@ -1,8 +1,10 @@
 ## Latest Updates:
 
+11/15/20 Version 36 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 11/14, 11/13, and 11/12.
+
 11/12/20 Daily data (under the /dailies/ folder) has been added for 11/11 and 11/10, note that some tweets will bleed into the following day due to different timezones captured.
 
-11/10/20 Upon request, we have added the visualization R code for the plots found in http://www.panacealab.org/covid19/, a bit messy but gets the job donegg 
+11/10/20 Upon request, we have added the visualization R code for the plots found in http://www.panacealab.org/covid19/, a bit messy but they get the job done.
 
 11/10/20 Daily data (under the /dailies/ folder) has been added for 11/09 and 11/08, note that some tweets will bleed into the following day due to different timezones captured.
 
@@ -41,16 +43,16 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 35.0 release notes
+# Version 36.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4263444.svg)](https://doi.org/10.5281/zenodo.4263444)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4274912.svg)](https://doi.org/10.5281/zenodo.4274912)
 
-Version 35 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 10/31, 10/30 and 10/29
+Version 36 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 11/14, 11/13 and 11/12
 
 
 # How to cite this dataset:
 
-Version 35.0
+Version 36.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -75,7 +77,7 @@ Version 35.0
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {35.0},
+  version      = {36.0},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
