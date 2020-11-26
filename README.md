@@ -62,6 +62,18 @@ Version 37 of the dataset, we have added the regular weekly update and some addi
 
 # How to cite this dataset:
 
+Our paper 
+```
+@misc{banda2020largescale,
+      title={A large-scale COVID-19 Twitter chatter dataset for open scientific research -- an international collaboration}, 
+      author={Juan M. Banda and Ramya Tekumalla and Guanyu Wang and Jingyuan Yu and Tuo Liu and Yuning Ding and Katya Artemova and Elena Tutubalina and Gerardo Chowell},
+      year={2020},
+      eprint={2004.03688},
+      archivePrefix={arXiv},
+      primaryClass={cs.SI},
+      url={https://arxiv.org/abs/2004.03688}
+}
+```
 Version 37.0
 
 ```
