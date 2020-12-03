@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+12/03/20 Daily data (under the /dailies/ folder) has been added for 12/02 and 12/01, note that some tweets will bleed into the following day due to different timezones captured.
+
 12/01/20 Daily data (under the /dailies/ folder) has been added for 11/30 and 11/29, note that some tweets will bleed into the following day due to different timezones captured.
 
 11/29/20 Version 38 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 11/28, 11/27, and 11/26.
