@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+12/06/20 Version 39 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 12/05, 12/04, and 12/03.
+
 12/03/20 Daily data (under the /dailies/ folder) has been added for 12/02 and 12/01, note that some tweets will bleed into the following day due to different timezones captured.
 
 12/01/20 Daily data (under the /dailies/ folder) has been added for 11/30 and 11/29, note that some tweets will bleed into the following day due to different timezones captured.
@@ -59,11 +61,11 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 38.0 release notes
+# Version 39.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4295939.svg)](https://doi.org/10.5281/zenodo.4295939)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4308491.svg)](https://doi.org/10.5281/zenodo.4308491)
 
-Version 38 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 11/28, 11/27 and 11/26
+Version 39 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 12/05, 12/04 and 12/03.
 
 
 # How to cite this dataset:
@@ -82,7 +84,7 @@ Our paper:
 
 ```
 
-Version 38.0
+Version 39.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -107,7 +109,7 @@ Version 38.0
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {38.0},
+  version      = {39.0},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
