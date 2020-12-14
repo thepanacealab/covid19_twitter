@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+12/13/20 Version 40 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 12/12, 12/11, and 12/10.
+
 12/10/20 Daily data (under the /dailies/ folder) has been added for 12/09 and 12/08, note that some tweets will bleed into the following day due to different timezones captured.
 
 12/08/20 Daily data (under the /dailies/ folder) has been added for 12/07 and 12/06, note that some tweets will bleed into the following day due to different timezones captured.
@@ -11,38 +13,6 @@
 12/01/20 Daily data (under the /dailies/ folder) has been added for 11/30 and 11/29, note that some tweets will bleed into the following day due to different timezones captured.
 
 11/29/20 Version 38 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 11/28, 11/27, and 11/26.
-
-11/26/20 Daily data (under the /dailies/ folder) has been added for 11/25 and 11/24, note that some tweets will bleed into the following day due to different timezones captured.
-
-11/24/20 Daily data (under the /dailies/ folder) has been added for 11/23 and 11/22, note that some tweets will bleed into the following day due to different timezones captured.
-
-11/22/20 Version 37 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 11/21, 11/20, and 11/19.
-
-11/19/20 Daily data (under the /dailies/ folder) has been added for 11/18 and 11/17, note that some tweets will bleed into the following day due to different timezones captured.
-
-11/17/20 Daily data (under the /dailies/ folder) has been added for 11/16 and 11/15, note that some tweets will bleed into the following day due to different timezones captured.
-
-11/15/20 Version 36 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 11/14, 11/13, and 11/12.
-
-11/12/20 Daily data (under the /dailies/ folder) has been added for 11/11 and 11/10, note that some tweets will bleed into the following day due to different timezones captured.
-
-11/10/20 Upon request, we have added the visualization R code for the plots found in http://www.panacealab.org/covid19/, a bit messy but they get the job done.
-
-11/10/20 Daily data (under the /dailies/ folder) has been added for 11/09 and 11/08, note that some tweets will bleed into the following day due to different timezones captured.
-
-11/08/20 Version 35 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 11/07, 11/06, and 11/05.
-
-11/05/20 Daily data (under the /dailies/ folder) has been added for 11/04 and 11/03, note that some tweets will bleed into the following day due to different timezones captured.
-
-11/03/20 Back to our regular release schedule! - Daily data (under the /dailies/ folder) has been added for 11/02 and 11/01, note that some tweets will bleed into the following day due to different timezones captured.
-
-11/01/20 Version 34 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 10/31, 10/30, and 10/29.
-
-10/29/20 Daily data (under the /dailies/ folder) has been added for 10/28 and 10/27, note that some tweets will bleed into the following day due to different timezones captured.
-
-10/27/20 Daily data (under the /dailies/ folder) has been added for 10/26 and 10/25, note that some tweets will bleed into the following day due to different timezones captured.
-
-10/25/20 Version 33 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 10/24, 10/23, and 10/22.
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -65,11 +35,11 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 39.0 release notes
+# Version 40.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4308491.svg)](https://doi.org/10.5281/zenodo.4308491)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4320230.svg)](https://doi.org/10.5281/zenodo.4320230)
 
-Version 39 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 12/05, 12/04 and 12/03.
+Version 40 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 12/12, 12/11 and 12/10.
 
 
 # How to cite this dataset:
@@ -88,7 +58,7 @@ Our paper:
 
 ```
 
-Version 39.0
+Version 40.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
