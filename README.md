@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+12/13/20 Version 41 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 12/19, 12/18, and 12/17.
+
 12/17/20 Daily data (under the /dailies/ folder) has been added for 12/16 and 12/15, note that some tweets will bleed into the following day due to different timezones captured.
 
 12/15/20 Daily data (under the /dailies/ folder) has been added for 12/14 and 12/13, note that some tweets will bleed into the following day due to different timezones captured.
@@ -39,11 +41,11 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 40.0 release notes
+# Version 41.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4320230.svg)](https://doi.org/10.5281/zenodo.4320230)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4375010.svg)](https://doi.org/10.5281/zenodo.4375010)
 
-Version 40 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 12/12, 12/11 and 12/10.
+Version 41 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 12/19, 12/18 and 12/17.
 
 
 # How to cite this dataset:
@@ -62,7 +64,7 @@ Our paper:
 
 ```
 
-Version 40.0
+Version 41.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
