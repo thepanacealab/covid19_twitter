@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+12/31/20 Daily data (under the /dailies/ folder) has been added for 12/30 and 12/29, note that some tweets will bleed into the following day due to different timezones captured.
+
 12/29/20 Daily data (under the /dailies/ folder) has been added for 12/28 and 12/27, note that some tweets will bleed into the following day due to different timezones captured.
 
 12/27/20 Version 42 of the dataset. Last version in 2020, please follow our Twitter (@drjmbanda) for some cool year-long visualizations. Dailies have been added for 12/26, 12/25, and 12/24.
