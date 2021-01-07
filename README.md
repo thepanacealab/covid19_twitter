@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+01/07/21 Daily data (under the /dailies/ folder) has been added for 1/06 and 1/05, note that some tweets will bleed into the following day due to different timezones captured.
+
 01/05/21 Daily data (under the /dailies/ folder) has been added for 1/04 and 1/03, note that some tweets will bleed into the following day due to different timezones captured.
 
 1/03/21 Version 43 of the dataset. First update of 2021!. Dailies have been added for 1/01, 1/02, and 12/31.
