@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+01/17/21 Version 45 of the dataset. Back on track! Dailies have been added for 1/16, 1/15 and 1/14.
+
 01/14/21 Daily data (under the /dailies/ folder) has been added for 1/13 and 1/12, note that some tweets will bleed into the following day due to different timezones captured.
 
 01/12/21 Daily data (under the /dailies/ folder) has been added for 1/11 and 1/10, note that some tweets will bleed into the following day due to different timezones captured.
@@ -63,11 +65,11 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 44.0 release notes
+# Version 45.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4432804.svg)](https://doi.org/10.5281/zenodo.4432804)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4445835.svg)](https://doi.org/10.5281/zenodo.4445835)
 
-Version 44 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 1/09, 1/08 and 1/07.
+Version 45 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 1/16, 1/15 and 1/14.
 
 
 # How to cite this dataset:
