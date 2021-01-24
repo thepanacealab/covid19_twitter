@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+01/17/21 Version 46 of the dataset. Dailies have been added for 1/23, 1/22 and 1/21. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
+
 01/21/21 Daily data (under the /dailies/ folder) has been added for 1/20 and 1/19, note that some tweets will bleed into the following day due to different timezones captured.
 
 01/19/21 Daily data (under the /dailies/ folder) has been added for 1/18 and 1/17, note that some tweets will bleed into the following day due to different timezones captured.
@@ -12,23 +14,6 @@
 
 01/10/21 Version 44 of the dataset. Sorry for the delay, CRON job didn't run properly yesterday. Dailies have been added for 1/09/, 1/08 and 1/07.
 
-01/07/21 Daily data (under the /dailies/ folder) has been added for 1/06 and 1/05, note that some tweets will bleed into the following day due to different timezones captured.
-
-01/05/21 Daily data (under the /dailies/ folder) has been added for 1/04 and 1/03, note that some tweets will bleed into the following day due to different timezones captured.
-
-1/03/21 Version 43 of the dataset. First update of 2021!. Dailies have been added for 1/01, 1/02, and 12/31.
-
-12/31/20 Daily data (under the /dailies/ folder) has been added for 12/30 and 12/29, note that some tweets will bleed into the following day due to different timezones captured.
-
-12/29/20 Daily data (under the /dailies/ folder) has been added for 12/28 and 12/27, note that some tweets will bleed into the following day due to different timezones captured.
-
-12/27/20 Version 42 of the dataset. Last version in 2020, please follow our Twitter (@drjmbanda) for some cool year-long visualizations. Dailies have been added for 12/26, 12/25, and 12/24.
-
-12/24/20 Daily data (under the /dailies/ folder) has been added for 12/23 and 12/22, note that some tweets will bleed into the following day due to different timezones captured.
-
-12/22/20 Daily data (under the /dailies/ folder) has been added for 12/21 and 12/20, note that some tweets will bleed into the following day due to different timezones captured.
-
-12/13/20 Version 41 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 12/19, 12/18, and 12/17.
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -51,11 +36,11 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 45.0 release notes
+# Version 46.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4445835.svg)](https://doi.org/10.5281/zenodo.4445835)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4460047.svg)](https://doi.org/10.5281/zenodo.4460047)
 
-Version 45 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 1/16, 1/15 and 1/14.
+Version 46 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 1/23, 1/22 and 1/21.
 
 
 # How to cite this dataset:
@@ -74,7 +59,7 @@ Our paper:
 
 ```
 
-Version 44.0
+Version 46.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -99,7 +84,7 @@ Version 44.0
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {39.0},
+  version      = {46.0},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
