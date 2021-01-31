@@ -1,8 +1,10 @@
 ## Latest Updates:
 
+01/31/21 Version 47 of the dataset. Dailies have been added for 1/30, 1/29 and 1/28. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
+
 01/29/21 Daily data (under the /dailies/ folder) has been added for 1/27, 1/26, 1/25 and 1/24, note that some tweets will bleed into the following day due to different timezones captured.
 
-01/17/21 Version 46 of the dataset. Dailies have been added for 1/23, 1/22 and 1/21. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
+01/24/21 Version 46 of the dataset. Dailies have been added for 1/23, 1/22 and 1/21. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
 
 01/21/21 Daily data (under the /dailies/ folder) has been added for 1/20 and 1/19, note that some tweets will bleed into the following day due to different timezones captured.
 
@@ -38,11 +40,11 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 46.0 release notes
+# Version 47.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4460047.svg)](https://doi.org/10.5281/zenodo.4460047)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4484079.svg)](https://doi.org/10.5281/zenodo.4484079)
 
-Version 46 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 1/23, 1/22 and 1/21.
+Version 47 of the dataset, we have added the regular weekly update and some additional historical tweets in Russian, courtesy of our collaborators. Dailies have been added for 1/30, 1/29 and 1/28.
 
 
 # How to cite this dataset:
@@ -61,7 +63,7 @@ Our paper:
 
 ```
 
-Version 46.0
+Version 47.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
