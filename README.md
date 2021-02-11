@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+02/11/21 Daily data (under the /dailies/ folder) has been added for 2/10 and 2/09, note that some tweets will bleed into the following day due to different timezones captured.
+
 02/09/21 Daily data (under the /dailies/ folder) has been added for 2/08 and 2/07, note that some tweets will bleed into the following day due to different timezones captured.
 
 02/07/21 Version 48 of the dataset. Dailies have been added for 2/6, 2/5 and 2/4. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
