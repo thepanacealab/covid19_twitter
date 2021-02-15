@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+02/14/21 Version 49 of the dataset. Dailies have been added for 2/13, 2/12 and 2/11. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
+
 02/11/21 Daily data (under the /dailies/ folder) has been added for 2/10 and 2/09, note that some tweets will bleed into the following day due to different timezones captured.
 
 02/09/21 Daily data (under the /dailies/ folder) has been added for 2/08 and 2/07, note that some tweets will bleed into the following day due to different timezones captured.
@@ -50,11 +52,11 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 48.0 release notes
+# Version 49.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4516518.svg)](https://doi.org/10.5281/zenodo.4516518)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4540809.svg)](https://doi.org/10.5281/zenodo.4540809)
 
-Version 48 of the dataset, we have added the regular weekly update. Dailies have been added for 2/06, 2/05 and 2/04.
+Version 49 of the dataset, we have added the regular weekly update. Dailies have been added for 2/13, 2/12 and 2/11.
 
 
 # How to cite this dataset:
@@ -73,7 +75,7 @@ Our paper:
 
 ```
 
-Version 47.0
+Version 49.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -98,7 +100,7 @@ Version 47.0
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {46.0},
+  version      = {49.0},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
