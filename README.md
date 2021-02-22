@@ -1,39 +1,12 @@
 ## Latest Updates:
 
+02/21/21 Version 50 of the dataset. Dailies have been added for 2/20, 2/19 and 2/18. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
+
 02/18/21 Daily data (under the /dailies/ folder) has been added for 2/17 and 2/16, note that some tweets will bleed into the following day due to different timezones captured.
 
 02/16/21 Daily data (under the /dailies/ folder) has been added for 2/15 and 2/14, note that some tweets will bleed into the following day due to different timezones captured.
 
 02/14/21 Version 49 of the dataset. Dailies have been added for 2/13, 2/12 and 2/11. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
-
-02/11/21 Daily data (under the /dailies/ folder) has been added for 2/10 and 2/09, note that some tweets will bleed into the following day due to different timezones captured.
-
-02/09/21 Daily data (under the /dailies/ folder) has been added for 2/08 and 2/07, note that some tweets will bleed into the following day due to different timezones captured.
-
-02/07/21 Version 48 of the dataset. Dailies have been added for 2/6, 2/5 and 2/4. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
-
-02/04/21 Daily data (under the /dailies/ folder) has been added for 2/03 and 2/02, note that some tweets will bleed into the following day due to different timezones captured.
-
-02/02/21 Daily data (under the /dailies/ folder) has been added for 2/01 and 1/31, note that some tweets will bleed into the following day due to different timezones captured.
-
-01/31/21 Version 47 of the dataset. Dailies have been added for 1/30, 1/29 and 1/28. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
-
-01/29/21 Daily data (under the /dailies/ folder) has been added for 1/27, 1/26, 1/25 and 1/24, note that some tweets will bleed into the following day due to different timezones captured.
-
-01/24/21 Version 46 of the dataset. Dailies have been added for 1/23, 1/22 and 1/21. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
-
-01/21/21 Daily data (under the /dailies/ folder) has been added for 1/20 and 1/19, note that some tweets will bleed into the following day due to different timezones captured.
-
-01/19/21 Daily data (under the /dailies/ folder) has been added for 1/18 and 1/17, note that some tweets will bleed into the following day due to different timezones captured.
-
-01/17/21 Version 45 of the dataset. Back on track! Dailies have been added for 1/16, 1/15 and 1/14.
-
-01/14/21 Daily data (under the /dailies/ folder) has been added for 1/13 and 1/12, note that some tweets will bleed into the following day due to different timezones captured.
-
-01/12/21 Daily data (under the /dailies/ folder) has been added for 1/11 and 1/10, note that some tweets will bleed into the following day due to different timezones captured.
-
-01/10/21 Version 44 of the dataset. Sorry for the delay, CRON job didn't run properly yesterday. Dailies have been added for 1/09/, 1/08 and 1/07.
-
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -56,12 +29,11 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 49.0 release notes
+# Version 50.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4540809.svg)](https://doi.org/10.5281/zenodo.4540809)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4555459.svg)](https://doi.org/10.5281/zenodo.4555459)
 
-Version 49 of the dataset, we have added the regular weekly update. Dailies have been added for 2/13, 2/12 and 2/11.
-
+Version 50 of the dataset, we have added the regular weekly update. Dailies have been added for 2/20, 2/19 and 2/18.
 
 # How to cite this dataset:
 
