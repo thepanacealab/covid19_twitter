@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+02/28/21 Version 51 of the dataset. Dailies have been added for 2/27, 2/26 and 2/25. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
+
 02/25/21 Daily data (under the /dailies/ folder) has been added for 2/24 and 2/23, note that some tweets will bleed into the following day due to different timezones captured.
 
 02/23/21 Daily data (under the /dailies/ folder) has been added for 2/22 and 2/21, note that some tweets will bleed into the following day due to different timezones captured.
@@ -33,11 +35,11 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 50.0 release notes
+# Version 51.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4555459.svg)](https://doi.org/10.5281/zenodo.4555459)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4568945.svg)](https://doi.org/10.5281/zenodo.4568945)
 
-Version 50 of the dataset, we have added the regular weekly update. Dailies have been added for 2/20, 2/19 and 2/18.
+Version 51 of the dataset, we have added the regular weekly update. Dailies have been added for 2/27, 2/26 and 2/25.
 
 # How to cite this dataset:
 
@@ -55,7 +57,7 @@ Our paper:
 
 ```
 
-Version 49.0
+Version 51.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
