@@ -1,28 +1,12 @@
 ## Latest Updates:
 
+03/14/21 Version 53 of the dataset. This release marks one full year of releases from us. Additional to our weekly update, we have a new additional set of 2.4 million Russian tweets provided by Katya Artemova (NRU HSE) and Elena Tutubalina (KFU). Daily data has been added for 3/13, 3/12, and 3/11.
+
 03/11/21 Daily data (under the /dailies/ folder) has been added for 3/10 and 3/09, note that some tweets will bleed into the following day due to different timezones captured.
 
 03/09/21 Daily data (under the /dailies/ folder) has been added for 3/08 and 3/07, note that some tweets will bleed into the following day due to different timezones captured.
 
 03/07/21 Version 52 of the dataset. Dailies have been added for 3/06, 3/05 and 3/04. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
-
-03/04/21 Daily data (under the /dailies/ folder) has been added for 3/03 and 3/02, note that some tweets will bleed into the following day due to different timezones captured.
-
-03/02/21 Daily data (under the /dailies/ folder) has been added for 3/01 and 2/28, note that some tweets will bleed into the following day due to different timezones captured.
-
-02/28/21 Version 51 of the dataset. Dailies have been added for 2/27, 2/26 and 2/25. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
-
-02/25/21 Daily data (under the /dailies/ folder) has been added for 2/24 and 2/23, note that some tweets will bleed into the following day due to different timezones captured.
-
-02/23/21 Daily data (under the /dailies/ folder) has been added for 2/22 and 2/21, note that some tweets will bleed into the following day due to different timezones captured.
-
-02/21/21 Version 50 of the dataset. Dailies have been added for 2/20, 2/19 and 2/18. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
-
-02/18/21 Daily data (under the /dailies/ folder) has been added for 2/17 and 2/16, note that some tweets will bleed into the following day due to different timezones captured.
-
-02/16/21 Daily data (under the /dailies/ folder) has been added for 2/15 and 2/14, note that some tweets will bleed into the following day due to different timezones captured.
-
-02/14/21 Version 49 of the dataset. Dailies have been added for 2/13, 2/12 and 2/11. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -45,11 +29,11 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 52.0 release notes
+# Version 53.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4588081.svg)](https://doi.org/10.5281/zenodo.4588081)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4603998.svg)](https://doi.org/10.5281/zenodo.4603998)
 
-Version 52 of the dataset, we have added the regular weekly update. Dailies have been added for 3/06, 3/05 and 3/04.
+Version 53 of the dataset. This release marks one full year of releases from us. Additional to our weekly update, we have a new additional set of 2.4 million Russian tweets provided by Katya Artemova (NRU HSE) and Elena Tutubalina (KFU). 
 
 # How to cite this dataset:
 
@@ -67,7 +51,7 @@ Our paper:
 
 ```
 
-Version 52.0
+Version 53.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -92,7 +76,7 @@ Version 52.0
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {49.0},
+  version      = {53.0},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
