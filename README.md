@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+03/18/21 Daily data (under the /dailies/ folder) has been added for 3/17 and 3/16, note that some tweets will bleed into the following day due to different timezones captured.
+
 03/16/21 Daily data (under the /dailies/ folder) has been added for 3/15 and 3/14, note that some tweets will bleed into the following day due to different timezones captured.
 
 03/14/21 Version 53 of the dataset. This release marks one full year of releases from us. Additional to our weekly update, we have a new additional set of 2.4 million Russian tweets provided by Katya Artemova (NRU HSE) and Elena Tutubalina (KFU). Daily data has been added for 3/13, 3/12, and 3/11.
