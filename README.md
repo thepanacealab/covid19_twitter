@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+03/28/21 Version 55 of the dataset. We have reached the 1 billion tweets milestone. Daily data has been added for 3/27, 3/26, and 3/25.
+
 03/25/21 Daily data (under the /dailies/ folder) has been added for 3/24 and 3/23, note that some tweets will bleed into the following day due to different timezones captured.
 
 03/22/21 Daily data (under the /dailies/ folder) has been added for 3/22 and 3/21, note that some tweets will bleed into the following day due to different timezones captured.
@@ -39,11 +41,11 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 54.0 release notes
+# Version 55.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4626181.svg)](https://doi.org/10.5281/zenodo.4626181)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4642450.svg)](https://doi.org/10.5281/zenodo.4642450)
 
-Version 54 of the dataset. This release marks one full year of releases from us. Version 53 additional to our weekly update, we have a new extra set of 2.4 million Russian tweets provided by Katya Artemova (NRU HSE) and Elena Tutubalina (KFU). 
+Version 55 of the dataset. This release reaches the milestone of 1 Billion tweets. 
 
 # How to cite this dataset:
 
@@ -61,7 +63,7 @@ Our paper:
 
 ```
 
-Version 54.0
+Version 55.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -86,7 +88,7 @@ Version 54.0
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {54.0},
+  version      = {55.0},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
