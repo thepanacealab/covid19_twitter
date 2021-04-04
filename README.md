@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+04/04/21 Version 56 of the dataset. We have reached the 1 billion tweets milestone. Daily data has been added for 4/03, 4/02, and 4/01.
+
 04/01/21 Daily data (under the /dailies/ folder) has been added for 3/31 and 3/30, note that some tweets will bleed into the following day due to different timezones captured.
 
 03/30/21 Daily data (under the /dailies/ folder) has been added for 3/29 and 3/28, note that some tweets will bleed into the following day due to different timezones captured.
@@ -45,11 +47,11 @@ Note: All the code in the /processing_code folder is provided as-is, it was used
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 55.0 release notes
+# Version 56.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4642450.svg)](https://doi.org/10.5281/zenodo.4642450)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4662107.svg)](https://doi.org/10.5281/zenodo.4662107)
 
-Version 55 of the dataset. This release reaches the milestone of 1 Billion tweets. 
+Version 56 of the dataset. This release reaches the milestone of 1 Billion tweets. 
 
 # How to cite this dataset:
 
