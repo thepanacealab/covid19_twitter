@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+04/11/21 Version 57 of the dataset. We have reached the 1 billion tweets milestone. Daily data has been added for 4/10, 4/09, and 4/08.
+
 04/08/21 Daily data (under the /dailies/ folder) has been added for 4/07 and 4/06, note that some tweets will bleed into the following day due to different timezones captured.
 
 04/06/21 Daily data (under the /dailies/ folder) has been added for 4/05 and 4/04, note that some tweets will bleed into the following day due to different timezones captured.
@@ -11,24 +13,6 @@
 03/30/21 Daily data (under the /dailies/ folder) has been added for 3/29 and 3/28, note that some tweets will bleed into the following day due to different timezones captured.
 
 03/28/21 Version 55 of the dataset. We have reached the 1 billion tweets milestone. Daily data has been added for 3/27, 3/26, and 3/25.
-
-03/25/21 Daily data (under the /dailies/ folder) has been added for 3/24 and 3/23, note that some tweets will bleed into the following day due to different timezones captured.
-
-03/22/21 Daily data (under the /dailies/ folder) has been added for 3/22 and 3/21, note that some tweets will bleed into the following day due to different timezones captured.
-
-03/21/21 Version 54 of the dataset. Daily data has been added for 3/20, 3/19, and 3/18.
-
-03/18/21 Daily data (under the /dailies/ folder) has been added for 3/17 and 3/16, note that some tweets will bleed into the following day due to different timezones captured.
-
-03/16/21 Daily data (under the /dailies/ folder) has been added for 3/15 and 3/14, note that some tweets will bleed into the following day due to different timezones captured.
-
-03/14/21 Version 53 of the dataset. This release marks one full year of releases from us. Additional to our weekly update, we have a new additional set of 2.4 million Russian tweets provided by Katya Artemova (NRU HSE) and Elena Tutubalina (KFU). Daily data has been added for 3/13, 3/12, and 3/11.
-
-03/11/21 Daily data (under the /dailies/ folder) has been added for 3/10 and 3/09, note that some tweets will bleed into the following day due to different timezones captured.
-
-03/09/21 Daily data (under the /dailies/ folder) has been added for 3/08 and 3/07, note that some tweets will bleed into the following day due to different timezones captured.
-
-03/07/21 Version 52 of the dataset. Dailies have been added for 3/06, 3/05 and 3/04. New: we added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -46,16 +30,19 @@ All tweets ids found in full_dataset.tsv and full_dataset-clean.tsv need to be h
 
 Note: All the code in the /processing_code folder is provided as-is, it was used to generate the provided files from the source Tweet JSON files. Documentation will be gradually added for these scripts. 
 
+We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some code to help you hydrate and pre-process the dataset. Note that this is just for illustration and will not download and process the whole dataset for you.
+
+
 # Mainted by:
 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 56.0 release notes
+# Version 57.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4662107.svg)](https://doi.org/10.5281/zenodo.4662107)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4679852.svg)](https://doi.org/10.5281/zenodo.4679852)
 
-Version 56 of the dataset. This release reaches the milestone of 1 Billion tweets. 
+Version 57 of the dataset. This release reaches the milestone of 1 Billion tweets. 
 
 # How to cite this dataset:
 
@@ -73,7 +60,7 @@ Our paper:
 
 ```
 
-Version 55.0
+Version 57.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
