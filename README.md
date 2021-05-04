@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+05/04/21 Daily data (under the /dailies/ folder) has been added for 5/03 and 5/02, note that some tweets will bleed into the following day due to different timezones captured.
+
 05/02/21 Version 60 of the dataset. We have reached the 1 billion tweets milestone. Daily data has been added for 5/01, 4/30, and 4/29.
 
 04/29/21 Daily data (under the /dailies/ folder) has been added for 4/28 and 4/27, note that some tweets will bleed into the following day due to different timezones captured.
