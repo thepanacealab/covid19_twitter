@@ -1,5 +1,9 @@
 ## Latest Updates:
 
+05/16/21 Version 62 of the dataset. We have reached the 1 billion tweets milestone. Daily data has been added for 5/15, 5/14, and 5/13.
+
+05/13/21 Daily data (under the /dailies/ folder) has been added for 5/12 and 5/11, note that some tweets will bleed into the following day due to different timezones captured.
+
 05/11/21 Daily data (under the /dailies/ folder) has been added for 5/10 and 5/09, note that some tweets will bleed into the following day due to different timezones captured.
 
 05/09/21 Version 61 of the dataset. We have reached the 1 billion tweets milestone. Daily data has been added for 5/08, 5/07, and 5/06.
@@ -64,11 +68,11 @@ We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 60.0 release notes
+# Version 62.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4733226.svg)](https://doi.org/10.5281/zenodo.4733226)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4767764.svg)](https://doi.org/10.5281/zenodo.4767764)
 
-Version 60 of the dataset. This release reaches the milestone of 1 Billion tweets. 
+Version 62 of the dataset. This release reaches the milestone of 1 Billion tweets. 
 
 # How to cite this dataset:
 
