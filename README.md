@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+06/06/21 Version 65 of the dataset. We have reached the 1.1 billion tweets milestone. Daily data has been added for 6/01, 6/02, and 6/03.
+
 06/03/21 Daily data (under the /dailies/ folder) has been added for 6/02 and 6/01, note that some tweets will bleed into the following day due to different timezones captured.
 
 06/01/21 Daily data (under the /dailies/ folder) has been added for 5/31 and 5/30, note that some tweets will bleed into the following day due to different timezones captured.
@@ -19,14 +21,6 @@
 05/13/21 Daily data (under the /dailies/ folder) has been added for 5/12 and 5/11, note that some tweets will bleed into the following day due to different timezones captured.
 
 05/11/21 Daily data (under the /dailies/ folder) has been added for 5/10 and 5/09, note that some tweets will bleed into the following day due to different timezones captured.
-
-05/09/21 Version 61 of the dataset. We have reached the 1 billion tweets milestone. Daily data has been added for 5/08, 5/07, and 5/06.
-
-05/06/21 Daily data (under the /dailies/ folder) has been added for 5/05 and 5/04, note that some tweets will bleed into the following day due to different timezones captured.
-
-05/04/21 Daily data (under the /dailies/ folder) has been added for 5/03 and 5/02, note that some tweets will bleed into the following day due to different timezones captured.
-
-05/02/21 Version 60 of the dataset. We have reached the 1 billion tweets milestone. Daily data has been added for 5/01, 4/30, and 4/29.
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -52,9 +46,9 @@ We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 64.0 release notes
+# Version 65.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4876538.svg)](https://doi.org/10.5281/zenodo.4876538)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4905209.svg)](https://doi.org/10.5281/zenodo.4905209)
 
 Version 64 of the dataset. This release reaches the milestone of 1 Billion tweets. 
 
