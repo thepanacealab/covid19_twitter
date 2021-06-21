@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+06/20/21 Version 67 of the dataset. We have reached the 1.1 billion tweets milestone. Daily data has been added for 6/19, 6/18, and 6/17.
+
 06/17/21 Daily data (under the /dailies/ folder) has been added for 6/16 and 6/15, note that some tweets will bleed into the following day due to different timezones captured.
 
 06/15/21 Daily data (under the /dailies/ folder) has been added for 6/14 and 6/13, note that some tweets will bleed into the following day due to different timezones captured.
@@ -9,28 +11,6 @@
 06/10/21 Daily data (under the /dailies/ folder) has been added for 6/09 and 6/08, note that some tweets will bleed into the following day due to different timezones captured.
 
 06/08/21 Daily data (under the /dailies/ folder) has been added for 6/07 and 6/06, note that some tweets will bleed into the following day due to different timezones captured.
-
-06/06/21 Version 65 of the dataset. We have reached the 1.1 billion tweets milestone. Daily data has been added for 6/01, 6/02, and 6/03.
-
-06/03/21 Daily data (under the /dailies/ folder) has been added for 6/02 and 6/01, note that some tweets will bleed into the following day due to different timezones captured.
-
-06/01/21 Daily data (under the /dailies/ folder) has been added for 5/31 and 5/30, note that some tweets will bleed into the following day due to different timezones captured.
-
-05/30/21 Version 64 of the dataset. We have reached the 1 billion tweets milestone. Daily data has been added for 5/29, 5/28, and 5/27.
-
-05/27/21 Daily data (under the /dailies/ folder) has been added for 5/26 and 5/25, note that some tweets will bleed into the following day due to different timezones captured.
-
-05/25/21 Daily data (under the /dailies/ folder) has been added for 5/24 and 5/23, note that some tweets will bleed into the following day due to different timezones captured.
-
-05/23/21 Version 63 of the dataset. We have reached the 1 billion tweets milestone. Daily data has been added for 5/22, 5/21, and 5/20.
-
-05/20/21 Daily data (under the /dailies/ folder) has been added for 5/19, 5/18, 5/17 and 5/16, note that some tweets will bleed into the following day due to different timezones captured.
-
-05/16/21 Version 62 of the dataset. We have reached the 1 billion tweets milestone. Daily data has been added for 5/15, 5/14, and 5/13.
-
-05/13/21 Daily data (under the /dailies/ folder) has been added for 5/12 and 5/11, note that some tweets will bleed into the following day due to different timezones captured.
-
-05/11/21 Daily data (under the /dailies/ folder) has been added for 5/10 and 5/09, note that some tweets will bleed into the following day due to different timezones captured.
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -56,11 +36,11 @@ We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 66.0 release notes
+# Version 67.0 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4950302.svg)](https://doi.org/10.5281/zenodo.4950302)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5000423.svg)](https://doi.org/10.5281/zenodo.5000423)
 
-Version 66 of the dataset. This release reaches the milestone of 1 Billion tweets. 
+Version 67 of the dataset. This release reaches the milestone of 1 Billion tweets. 
 
 # How to cite this dataset:
 
@@ -78,7 +58,7 @@ Our paper:
 
 ```
 
-Version 66.0
+Version 67.0
 
 ```
 @dataset{banda_juan_m_2020_3757272,
