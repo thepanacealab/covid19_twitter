@@ -1,6 +1,8 @@
 ## Latest Updates:
 
-06/27/21 Version 68 of the dataset. We have reached the 1.1 billion tweets milestone. Daily data has been added for 6/26, 6/25, 6/24, 6/23, and 6/22. Dailies update frequency will change to once a week on Wedndesdays. 
+06/30/21 Daily data (under the /dailies/ folder) has been added for 6/27, 6/28, and 6/29, note that some tweets will bleed into the following day due to different timezones captured.
+
+06/27/21 Version 68 of the dataset. We have reached the 1.1 billion tweets milestone. Daily data has been added for 6/26, 6/25, 6/24, 6/23, and 6/22. Dailies update frequency will change to once a week on Wednesdays. 
 
 06/22/21 Daily data (under the /dailies/ folder) has been added for 6/21 and 6/20, note that some tweets will bleed into the following day due to different timezones captured.
 
