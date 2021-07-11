@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+07/11/21 Version 70 of the dataset. Daily data has been added for 7/10, 7/9, 7/8, and 7/7. Dailies update frequency will change to once a week on Wednesdays.
+
 07/07/21 Daily data (under the /dailies/ folder) has been added for 7/6, 7/5, and 7/4, note that some tweets will bleed into the following day due to different timezones captured.
 
 07/04/21 Version 69 of the dataset. We have reached the 1.2 billion tweets milestone. Daily data has been added for 7/3, 7/2, 7/1, and 6/30. Dailies update frequency will change to once a week on Wednesdays.
@@ -46,11 +48,11 @@ We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 69.0 release notes
+# Version 70 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5068660.svg)](https://doi.org/10.5281/zenodo.5068660)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5090588.svg)](https://doi.org/10.5281/zenodo.5090588)
 
-Version 69 of the dataset. This release reaches the milestone of 1 Billion tweets. 
+Version 70 of the dataset. This release reaches the milestone of 1 Billion tweets. 
 
 # How to cite this dataset:
 
@@ -68,7 +70,7 @@ Our paper:
 
 ```
 
-Version 68.0
+Version 70
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -93,7 +95,7 @@ Version 68.0
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {68.0},
+  version      = {70},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
