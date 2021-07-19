@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+07/18/21 Version 71 of the dataset. Daily data has been added for 7/17, 7/16, 7/15, and 7/14. Dailies update frequency will change to once a week on Wednesdays.
+
 07/14/21 Daily data (under the /dailies/ folder) has been added for 7/13, 7/12, and 7/11, note that some tweets will bleed into the following day due to different timezones captured.
 
 07/11/21 Version 70 of the dataset. Daily data has been added for 7/10, 7/9, 7/8, and 7/7. Dailies update frequency will change to once a week on Wednesdays.
@@ -50,11 +52,11 @@ We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 70 release notes
+# Version 71 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5090588.svg)](https://doi.org/10.5281/zenodo.5090588)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5114203.svg)](https://doi.org/10.5281/zenodo.5114203)
 
-Version 70 of the dataset. This release reaches the milestone of 1 Billion tweets. 
+Version 71 of the dataset. This release reaches the milestone of 1 Billion tweets. 
 
 # How to cite this dataset:
 
@@ -72,7 +74,7 @@ Our paper:
 
 ```
 
-Version 70
+Version 71
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -97,7 +99,7 @@ Version 70
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {70},
+  version      = {71},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
