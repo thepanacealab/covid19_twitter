@@ -1,5 +1,8 @@
 ## Latest Updates:
 
+07/21/21 Daily data (under the /dailies/ folder) has been added for 7/20, 7/19, and 7/18, note that some tweets will bleed into the following day due to different timezones cap
+tured.
+
 07/18/21 Version 71 of the dataset. Daily data has been added for 7/17, 7/16, 7/15, and 7/14. Dailies update frequency will change to once a week on Wednesdays.
 
 07/14/21 Daily data (under the /dailies/ folder) has been added for 7/13, 7/12, and 7/11, note that some tweets will bleed into the following day due to different timezones captured.
