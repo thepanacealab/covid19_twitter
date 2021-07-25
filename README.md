@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+07/25/21 Version 72 of the dataset. Daily data has been added for 7/24, 7/23, 7/22, and 7/21. Dailies update frequency will change to once a week on Wednesdays.
+
 07/21/21 Daily data (under the /dailies/ folder) has been added for 7/20, 7/19, and 7/18, note that some tweets will bleed into the following day due to different timezones cap
 tured.
 
@@ -55,11 +57,11 @@ We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 71 release notes
+# Version 72 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5114203.svg)](https://doi.org/10.5281/zenodo.5114203)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5136525.svg)](https://doi.org/10.5281/zenodo.5136525)
 
-Version 71 of the dataset. This release reaches the milestone of 1 Billion tweets. 
+Version 72 of the dataset. This release reaches the milestone of 1 Billion tweets. 
 
 # How to cite this dataset:
 
