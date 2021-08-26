@@ -1,5 +1,9 @@
 ## Latest Updates:
 
+08/25/21 Daily data (under the /dailies/ folder) has been added for 8/24, 8/23, and 8/22, note that some tweets will bleed into the following day due to different timezones captured.
+
+08/22/21 Version 75 of the dataset. Daily data has been added for 8/21, 8/20, 8/19, and 8/18. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published  in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
+
 08/18/21 Daily data (under the /dailies/ folder) has been added for 8/17, 8/17, and 8/15, note that some tweets will bleed into the following day due to different timezones captured. 
 
 08/15/21 Version 75 of the dataset. Daily data has been added for 8/14, 8/13, 8/12, and 8/11. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published  in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
