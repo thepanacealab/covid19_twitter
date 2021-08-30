@@ -1,20 +1,14 @@
 ## Latest Updates:
 
+08/29/21 Version 77 of the dataset. Daily data has been added for 8/28, 8/27, 8/26, and 8/25. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published  in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
+
 08/25/21 Daily data (under the /dailies/ folder) has been added for 8/24, 8/23, and 8/22, note that some tweets will bleed into the following day due to different timezones captured.
 
-08/22/21 Version 75 of the dataset. Daily data has been added for 8/21, 8/20, 8/19, and 8/18. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published  in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
+08/22/21 Version 76 of the dataset. Daily data has been added for 8/21, 8/20, 8/19, and 8/18. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published  in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
 
 08/18/21 Daily data (under the /dailies/ folder) has been added for 8/17, 8/17, and 8/15, note that some tweets will bleed into the following day due to different timezones captured. 
 
 08/15/21 Version 75 of the dataset. Daily data has been added for 8/14, 8/13, 8/12, and 8/11. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published  in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
-
-08/11/21 Daily data (under the /dailies/ folder) has been added for 8/10, 8/09, and 8/08, note that some tweets will bleed into the following day due to different timezones captured.
-
-08/08/21 Version 74 of the dataset. Daily data has been added for 8/07, 8/06, 8/05, 8/04. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published  in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
-
-08/04/21 Daily data (under the /dailies/ folder) has been added for 8/03, 8/02, and 8/01, note that some tweets will bleed into the following day due to different timezones captured.
-
-08/01/21 Version 73 of the dataset. Daily data has been added for 7/31, 7/30, 7/29, and 7/28. Dailies update frequency will change to once a week on Wednesdays.
 
 
 # Covid-19 Twitter chatter dataset for scientific use
@@ -41,11 +35,11 @@ We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 74 release notes
+# Version 77 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5170785.svg)](https://doi.org/10.5281/zenodo.5170785)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5335900.svg)](https://doi.org/10.5281/zenodo.5335900)
 
-Version 74 of the dataset. This release reaches the milestone of 1 Billion tweets. 
+Version 77 of the dataset. This release reaches the milestone of 1 Billion tweets. 
 
 # How to cite this dataset:
 
@@ -65,7 +59,7 @@ DOI = {10.3390/epidemiologia2030024}
 }
 ```
 
-Version 74
+Version 77
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -90,7 +84,7 @@ Version 74
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {74},
+  version      = {77},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
