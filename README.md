@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+09/05/21 Version 78 of the dataset. Daily data has been added for 9/4, 9/3, 9/2, and 9/1. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published  in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
+
 09/01/21 Daily data (under the /dailies/ folder) has been added for 8/31, 8/30, and 8/29, note that some tweets will bleed into the following day due to different timezones cap
 tured.
 
@@ -38,11 +40,11 @@ We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 77 release notes
+# Version 78 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5335900.svg)](https://doi.org/10.5281/zenodo.5335900)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5458943.svg)](https://doi.org/10.5281/zenodo.5458943)
 
-Version 77 of the dataset. This release reaches the milestone of 1 Billion tweets. 
+Version 78 of the dataset. This release reaches the milestone of 1 Billion tweets. 
 
 # How to cite this dataset:
 
@@ -62,7 +64,7 @@ DOI = {10.3390/epidemiologia2030024}
 }
 ```
 
-Version 77
+Version 78
 
 ```
 @dataset{banda_juan_m_2020_3757272,
