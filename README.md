@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+09/19/21 Version 80 of the dataset. Daily data has been added for 9/18, 9/17, 9/16, and 9/15. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
+
 09/15/21 Daily data (under the /dailies/ folder) has been added for 9/14, 9/13, and 9/12, note that some tweets will bleed into the following day due to different timezones captured.
 
 09/12/21 Version 79 of the dataset. Daily data has been added for 9/11, 9/10, 9/9, and 9/8. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
@@ -46,11 +48,11 @@ We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 79 release notes
+# Version 80 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5501835.svg)](https://doi.org/10.5281/zenodo.5501835)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5516493.svg)](https://doi.org/10.5281/zenodo.5516493)
 
-Version 79 of the dataset. This release reaches the milestone of 1 Billion tweets. 
+Version 80 of the dataset. This release reaches the milestone of 1 Billion tweets. 
 
 # How to cite this dataset:
 
@@ -70,7 +72,7 @@ DOI = {10.3390/epidemiologia2030024}
 }
 ```
 
-Version 79
+Version 80
 
 ```
 @dataset{banda_juan_m_2020_3757272,
