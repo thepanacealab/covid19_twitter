@@ -1,26 +1,12 @@
 ## Latest Updates:
 
-10/27/21 Daily data (under the /dailies/ folder) has been added for 10/26, 10/25, and 10/247, note that some tweets will bleed into the following day due to different timezones captured.
+10/24/21 Version 86 of the dataset. Daily data has been added for 10/30, 10/29, 10/28, and 10/27. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
+
+10/27/21 Daily data (under the /dailies/ folder) has been added for 10/26, 10/25, and 10/24, note that some tweets will bleed into the following day due to different timezones captured.
 
 10/24/21 Version 85 of the dataset. Daily data has been added for 10/23, 10/22, 10/21, and 10/20. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
 
 10/20/21 Daily data (under the /dailies/ folder) has been added for 10/19, 10/18, and 10/17, note that some tweets will bleed into the following day due to different timezones captured.
-
-10/17/21 Version 84 of the dataset. Daily data has been added for 10/16, 10/15, 10/14, and 10/13. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
-
-10/13/21 Daily data (under the /dailies/ folder) has been added for 10/12, 10/11, and 10/10, note that some tweets will bleed into the following day due to different timezones captured.
-
-10/10/21 Version 83 of the dataset. Daily data has been added for 10/9, 10/8, 10/7, and 10/6. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
-
-10/06/21 Daily data (under the /dailies/ folder) has been added for 10/5, 10/4, and 10/3, note that some tweets will bleed into the following day due to different timezones captured.
-
-10/03/21 Version 82 of the dataset. Daily data has been added for 10/2, 10/1, 9/30, and 9/29. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
-
-09/29/21 Daily data (under the /dailies/ folder) has been added for 9/28, 9/27, and 9/26, note that some tweets will bleed into the following day due to different timezones captured.
-
-09/26/21 Version 81 of the dataset. Daily data has been added for 9/25, 9/24, 9/23, and 9/22. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
-
-09/22/21 Daily data (under the /dailies/ folder) has been added for 9/21, 9/20, and 9/19, note that some tweets will bleed into the following day due to different timezones captured.
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -46,11 +32,11 @@ We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 84 release notes
+# Version 86 release notes
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5574498.svg)](https://doi.org/10.5281/zenodo.5574498)
 
-Version 84 of the dataset. This release reaches the milestone of 1 Billion tweets. 
+Version 86 of the dataset. This release reaches the milestone of 1 Billion tweets. 
 
 # How to cite this dataset:
 
