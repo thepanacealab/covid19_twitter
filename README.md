@@ -1,5 +1,7 @@
 ## Latest Updates:
 
+11/07/21 Version 87 of the dataset. Daily data has been added for 11/13 to 11/06, 11/05. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset. Wednesday update was skipped due to busy travel schedule.
+
 11/07/21 Version 87 of the dataset. Daily data has been added for 11/06, 11/05, 11/04, and 11/03. Dailies update frequency will change to once a week on Wednesdays. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
 
 11/04/21 Daily data (under the /dailies/ folder) has been added for 11/02, 11/01, and 10/31, note that some tweets will bleed into the following day due to different timezones captured.
@@ -36,11 +38,11 @@ We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 87 release notes
+# Version 88 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5652342.svg)](https://doi.org/10.5281/zenodo.5652342)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5701438.svg)](https://doi.org/10.5281/zenodo.5701438)
 
-Version 87 of the dataset. This release reaches the milestone of 1.3 Billion tweets. 
+Version 88 of the dataset. This release reaches the milestone of 1.3 Billion tweets. 
 
 # How to cite this dataset:
 
