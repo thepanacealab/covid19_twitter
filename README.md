@@ -1,6 +1,8 @@
 ## Latest Updates:
 
-11/21/21 Version 89 of the dataset. Daily data has been added for 11/19 to 11/18, 11/17. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
+11/28/21 Version 90 of the dataset. Daily data has been added for 11/27 to 11/20. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
+
+11/21/21 Version 89 of the dataset. Daily data has been added for 11/19, 11/18, 11/17. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
 
 11/17/21 Daily data (under the /dailies/ folder) has been added for 11/16, 11/15, and 11/14, note that some tweets will bleed into the following day due to different timezones captured.
 
@@ -42,11 +44,11 @@ We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 89 release notes
+# Version 90 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5722439.svg)](https://doi.org/10.5281/zenodo.5722439)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5733330.svg)](https://doi.org/10.5281/zenodo.5733330)
 
-Version 89 of the dataset. This release reaches the milestone of 1.3 Billion tweets. 
+Version 90 of the dataset. This release reaches the milestone of 1.3 Billion tweets. 
 
 # How to cite this dataset:
 
@@ -66,7 +68,7 @@ DOI = {10.3390/epidemiologia2030024}
 }
 ```
 
-Version 89
+Version 90
 
 ```
 @dataset{banda_juan_m_2020_3757272,
