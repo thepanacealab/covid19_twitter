@@ -1,0 +1,31 @@
+cff-version: 1.0.0
+message: "This dataset will be updated bi-weekly at least with additional tweets, look at the github repo for these updates."
+authors:
+- family-names: "Banda"
+  given-names: "Juan M."
+  orcid: "https://orcid.org/0000-0001-8499-824X"
+- family-names: "Tekumalla"
+  given-names: "Ramya"
+- family-names: "Wang"
+  given-names: "Guanyu"
+- family-names: "Yu"
+  given-names: "Jingyuan"
+  orcid: "https://orcid.org/0000-0002-9400-4859"
+- family-names: "Liu"
+  given-names: "Tuo"
+  orcid: "https://orcid.org/0000-0001-8037-7809"
+- family-names: "Ding"
+  given-names: "Yuning"
+- family-names: "Artemova"
+  given-names: "Ekaterina"
+- family-names: "Tutubalina"
+  given-names: "Elena"
+  orcid: "https://orcid.org/0000-0001-7936-0284"
+- family-names: "Chowell"
+  given-names: "Gerardo"
+title: "A Large-Scale COVID-19 Twitter Chatter Dataset for Open Scientific Research—An International Collaboration"
+type: dataset
+version: 93
+doi: 10.3390/epidemiologia2030024
+date-released: 2021-12-26
+url: "https://www.mdpi.com/2673-3986/2/3/24"
