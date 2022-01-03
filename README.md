@@ -1,12 +1,10 @@
 ## Latest Updates:
 
+12/26/21 Version 94 of the dataset. Daily data has been added for 12/26 to 12/19. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
+
 12/19/21 Version 93 of the dataset. Daily data has been added for 12/18 to 12/12. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
 
 12/12/21 Version 92 of the dataset. Daily data has been added for 12/11 to 12/05. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
-
-12/5/21 Version 91 of the dataset. Daily data has been added for 12/04 to 11/28. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
-
-11/28/21 Version 90 of the dataset. Daily data has been added for 11/27 to 11/20. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -32,11 +30,11 @@ We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 93 release notes
+# Version 94 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5792072.svg)](https://doi.org/10.5281/zenodo.5792072)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5805533.svg)](https://doi.org/10.5281/zenodo.5805533)
 
-Version 93 of the dataset. This release reaches the milestone of 1.3 Billion tweets. 
+Version 94 of the dataset. This release reaches the milestone of 1.3 Billion tweets. 
 
 # How to cite this dataset:
 
@@ -56,7 +54,7 @@ DOI = {10.3390/epidemiologia2030024}
 }
 ```
 
-Version 93
+Version 94
 
 ```
 @dataset{banda_juan_m_2020_3757272,
