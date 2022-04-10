@@ -1,6 +1,6 @@
 ## Latest Updates:
 
-03/27/22 Version 107 of the dataset. Daily data has been added for 03/26 to 03/20. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
+04/10/22 Version 109 of the dataset. Daily data has been added until 4/09. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -26,11 +26,11 @@ We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 107 release notes
+# Version 109 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6390532.svg)](https://doi.org/10.5281/zenodo.6390532)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6438032.svg)](https://doi.org/10.5281/zenodo.6438032)
 
-Version 107 of the dataset. This release reaches the milestone of 1.3 Billion tweets. 
+Version 109 of the dataset. This release reaches the milestone of 1.3 Billion tweets. 
 
 # How to cite this dataset:
 
@@ -50,7 +50,7 @@ DOI = {10.3390/epidemiologia2030024}
 }
 ```
 
-Version 107
+Version 109
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -75,7 +75,7 @@ Version 107
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {106},
+  version      = {109},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
