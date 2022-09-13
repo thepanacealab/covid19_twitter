@@ -1,6 +1,6 @@
 ## Latest Updates:
 
-09/04/22 Version 130 of the dataset. Daily data has been added until 9/3. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset. The dataset files: full_dataset.tsv.gz and full_dataset_clean.tsv.gz have been split in 1 GB parts using the Linux utility called Split. So make sure to join the parts before unzipping. We had to make this change as we had huge issues uploading files larger than 2GB's (hence the delay in the dataset releases).
+09/11/22 Version 131 of the dataset. Daily data has been added until 9/10. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset. The dataset files: full_dataset.tsv.gz and full_dataset_clean.tsv.gz have been split in 1 GB parts using the Linux utility called Split. So make sure to join the parts before unzipping. We had to make this change as we had huge issues uploading files larger than 2GB's (hence the delay in the dataset releases).
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -26,11 +26,11 @@ We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 130 release notes
+# Version 131 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodoi.7047835.svg)](https://doi.org/10.5281/zenodo.7047835)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodoi.7068379.svg)](https://doi.org/10.5281/zenodo.7068379)
 
-Version 130 of the dataset. In this release we introduced splitting of the main dataset files for easier upload to Zenodo. The dataset files: full_dataset.tsv.gz and full_dataset_clean.tsv.gz have been split in 1 GB parts using the Linux utility called Split. So make sure to join the parts before unzipping. We had to make this change as we had huge issues uploading files larger than 2GB's (hence the delay in the dataset releases) 
+Version 131 of the dataset. In this release we introduced splitting of the main dataset files for easier upload to Zenodo. The dataset files: full_dataset.tsv.gz and full_dataset_clean.tsv.gz have been split in 1 GB parts using the Linux utility called Split. So make sure to join the parts before unzipping. We had to make this change as we had huge issues uploading files larger than 2GB's (hence the delay in the dataset releases) 
 
 # How to cite this dataset:
 
@@ -75,7 +75,7 @@ Version 130
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {130},
+  version      = {131},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
