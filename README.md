@@ -1,10 +1,6 @@
 ## Latest Updates:
 
-12/26/21 Version 94 of the dataset. Daily data has been added for 12/26 to 12/19. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
-
-12/19/21 Version 93 of the dataset. Daily data has been added for 12/18 to 12/12. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
-
-12/12/21 Version 92 of the dataset. Daily data has been added for 12/11 to 12/05. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset.
+2/12/23 Version 153 of the dataset. Daily data has been added until 2/11. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset. The dataset files: full_dataset.tsv.gz and full_dataset_clean.tsv.gz have been split in 1 GB parts using the Linux utility called Split. So make sure to join the parts before unzipping. We had to make this change as we had huge issues uploading files larger than 2GB's (hence the delay in the dataset releases).
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -30,11 +26,11 @@ We added a [Colab Notebook tutorial](COVID_19_dataset_Tutorial.ipynb) with some 
 [Panacea Lab](www.panacealab.org) - [Georgia State University](www.gsu.edu) - [Juan M. Banda](www.jmbanda.com), Ramya Tekumalla, and Gerardo Chowell-Puente.
 Additional data provided by: Guanyu Wang (Missouri school of journalism, University of Missouri), Jingyuan Yu (Department of social psychology, Universitat Autònoma de Barcelona), Tuo Liu (Department of psychology, Carl von Ossietzky Universität Oldenburg), Yuning Ding (Language technology lab, Universität Duisburg-Essen), Katya Artemova (NRU HSE) and Elena Tutubalina (KFU)
 
-# Version 94 release notes
+# Version 153 release notes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5805533.svg)](https://doi.org/10.5281/zenodo.5805533)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodoi.7633479.svg)](https://doi.org/10.5281/zenodo.7633479)
 
-Version 94 of the dataset. This release reaches the milestone of 1.3 Billion tweets. 
+Version 153 of the dataset. In this release we introduced splitting of the main dataset files for easier upload to Zenodo. The dataset files: full_dataset.tsv.gz and full_dataset_clean.tsv.gz have been split in 1 GB parts using the Linux utility called Split. So make sure to join the parts before unzipping. We had to make this change as we had huge issues uploading files larger than 2GB's (hence the delay in the dataset releases) 
 
 # How to cite this dataset:
 
@@ -54,7 +50,7 @@ DOI = {10.3390/epidemiologia2030024}
 }
 ```
 
-Version 94
+Version 153
 
 ```
 @dataset{banda_juan_m_2020_3757272,
@@ -70,8 +66,8 @@ Version 94
   title        = {{A large-scale COVID-19 Twitter chatter dataset for 
                    open scientific research - an international
                    collaboration}},
-  month        = may,
-  year         = 2020,
+  month        = Feb,
+  year         = 2023,
   note         = {{This dataset will be updated bi-weekly at least 
                    with additional tweets, look at the github repo
                    for these updates. Release: We have standardized
@@ -79,7 +75,7 @@ Version 94
                    manuscript and to not have to update it every
                    week.}},
   publisher    = {Zenodo},
-  version      = {92},
+  version      = {145},
   doi          = {10.5281/zenodo.3723939},
   url          = {https://doi.org/10.5281/zenodo.3723939}
 }
