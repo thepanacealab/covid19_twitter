@@ -1,6 +1,6 @@
 ## Latest Updates:
 
-2/12/23 Version 153 of the dataset. Daily data has been added until 2/11. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset. The dataset files: full_dataset.tsv.gz and full_dataset_clean.tsv.gz have been split in 1 GB parts using the Linux utility called Split. So make sure to join the parts before unzipping. We had to make this change as we had huge issues uploading files larger than 2GB's (hence the delay in the dataset releases).
+4/17/23 Version 162 of the dataset. Daily data has been added until 4/15. The peer-reviewed publication for this dataset has now been published in Epidemiologia an MDPI journal, and can be accessed here: https://doi.org/10.3390/epidemiologia2030024. Please cite this when using the dataset. The dataset files: full_dataset.tsv.gz and full_dataset_clean.tsv.gz have been split in 1 GB parts using the Linux utility called Split. So make sure to join the parts before unzipping. We had to make this change as we had huge issues uploading files larger than 2GB's (hence the delay in the dataset releases).
 
 # Covid-19 Twitter chatter dataset for scientific use
 
@@ -50,7 +50,7 @@ DOI = {10.3390/epidemiologia2030024}
 }
 ```
 
-Version 153
+Version 162
 
 ```
 @dataset{banda_juan_m_2020_3757272,
